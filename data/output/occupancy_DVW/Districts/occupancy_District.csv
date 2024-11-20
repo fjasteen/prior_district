@@ -1,0 +1,936 @@
+District;species;speciesKey;aantal km² in VL;aantal km² in district;aandeel km² in district;% in district;aandeel km² hokken van district;% van district
+aBS - District 7 (IJzer);Acer negundo;3189866;555;20;0,036036036036036;3,6;0,0636942675159236;6,37
+aBS - District 7 (IJzer);Ailanthus altissima;3190653;633;12;0,018957345971564;1,9;0,0382165605095541;3,82
+aBS - District 7 (IJzer);Aponogeton distachyos;5328593;27;0;0;0;0;0
+aBS - District 7 (IJzer);Arundo donax;2703041;5;0;0;0;0;0
+aBS - District 7 (IJzer);Asclepias syriaca;3170247;30;0;0;0;0;0
+aBS - District 7 (IJzer);Azolla filiculoides;2650107;264;13;0,0492424242424242;4,9;0,0414012738853503;4,14
+aBS - District 7 (IJzer);Baccharis halimifolia;3129663;130;16;0,123076923076923;12,3;0,0509554140127389;5,1
+aBS - District 7 (IJzer);Cabomba caroliniana;2882443;11;0;0;0;0;0
+aBS - District 7 (IJzer);Cotoneaster horizontalis;3025617;437;31;0,0709382151029748;7,1;0,0987261146496815;9,87
+aBS - District 7 (IJzer);Elodea densa;5329263;16;0;0;0;0;0
+aBS - District 7 (IJzer);Pontederia crassipes;2765942;18;0;0;0;0;0
+aBS - District 7 (IJzer);Elaeagnus angustifolia;3039269;179;1;0,00558659217877095;0,6;0,00318471337579618;0,32
+aBS - District 7 (IJzer);Elodea canadensis;2865448;64;3;0,046875;4,7;0,00955414012738853;0,96
+aBS - District 7 (IJzer);Elodea nuttallii;5329212;591;31;0,0524534686971235;5,2;0,0987261146496815;9,87
+aBS - District 7 (IJzer);Fallopia baldschuanica;5334351;356;9;0,0252808988764045;2,5;0,0286624203821656;2,87
+aBS - District 7 (IJzer);Fraxinus pennsylvanica;3172348;46;0;0;0;0;0
+aBS - District 7 (IJzer);Helianthus tuberosus;3119175;300;1;0,00333333333333333;0,3;0,00318471337579618;0,32
+aBS - District 7 (IJzer);Helianthus laetiflorus;3119181;44;0;0;0;0;0
+aBS - District 7 (IJzer);Heracleum mantegazzianum;3034825;2812;35;0,0124466571834993;1,2;0,111464968152866;11,15
+aBS - District 7 (IJzer);Hydrocotyle ranunculoides;7978544;537;2;0,0037243947858473;0,4;0,00636942675159236;0,64
+aBS - District 7 (IJzer);Impatiens capensis;2891774;56;0;0;0;0;0
+aBS - District 7 (IJzer);Impatiens glandulifera;2891770;3707;12;0,00323711896412193;0,3;0,0382165605095541;3,82
+aBS - District 7 (IJzer);Koenigia polystachya;8848208;42;0;0;0;0;0
+aBS - District 7 (IJzer);Laburnum anagyroides;5356345;198;6;0,0303030303030303;3;0,0191082802547771;1,91
+aBS - District 7 (IJzer);Lagarosiphon major;2865565;34;1;0,0294117647058824;2,9;0,00318471337579618;0,32
+aBS - District 7 (IJzer);Lemna minuta;2867614;883;26;0,029445073612684;2,9;0,0828025477707006;8,28
+aBS - District 7 (IJzer);Lemna turionifera;2867631;103;23;0,223300970873786;22,3;0,0732484076433121;7,32
+aBS - District 7 (IJzer);Hydrocharis laevigata;11055820;2;0;0;0;0;0
+aBS - District 7 (IJzer);Ludwigia grandiflora;5421039;476;23;0,0483193277310924;4,8;0,0732484076433121;7,32
+aBS - District 7 (IJzer);Ludwigia peploides;5420991;18;0;0;0;0;0
+aBS - District 7 (IJzer);Mahonia aquifolium;3033865;1917;19;0,0099113197704747;1;0,0605095541401274;6,05
+aBS - District 7 (IJzer);Myriophyllum aquaticum;5361785;479;4;0,00835073068893528;0,8;0,0127388535031847;1,27
+aBS - District 7 (IJzer);Myriophyllum heterophyllum;5361762;67;0;0;0;0;0
+aBS - District 7 (IJzer);Myriophyllum rubricaule;11742641;16;0;0;0;0;0
+aBS - District 7 (IJzer);Parthenocissus inserta;3039203;423;3;0,00709219858156028;0,7;0,00955414012738853;0,96
+aBS - District 7 (IJzer);Parthenocissus quinquefolia;3039194;156;1;0,00641025641025641;0,6;0,00318471337579618;0,32
+aBS - District 7 (IJzer);Parthenocissus tricuspidata;3039209;304;4;0,0131578947368421;1,3;0,0127388535031847;1,27
+aBS - District 7 (IJzer);Pistia stratiotes;2870583;43;0;0;0;0;0
+aBS - District 7 (IJzer);Prunus laurocerasus;3021496;2255;13;0,0057649667405765;0,6;0,0414012738853503;4,14
+aBS - District 7 (IJzer);Prunus serotina;3021850;6032;14;0,0023209549071618;0,2;0,0445859872611465;4,46
+aBS - District 7 (IJzer);Reynoutria japonica;2889173;5136;57;0,0110981308411215;1,1;0,181528662420382;18,15
+aBS - District 7 (IJzer);Reynoutria sachalinensis;2889088;129;0;0;0;0;0
+aBS - District 7 (IJzer);Reynoutria bohemica;4038485;140;3;0,0214285714285714;2,1;0,00955414012738853;0,96
+aBS - District 7 (IJzer);Rhus typhina;3190538;742;8;0,0107816711590297;1,1;0,0254777070063694;2,55
+aBS - District 7 (IJzer);Robinia pseudoacacia;5352251;4017;26;0,00647249190938511;0,6;0,0828025477707006;8,28
+aBS - District 7 (IJzer);Rosa rugosa;3003979;1761;37;0,0210107893242476;2,1;0,117834394904459;11,78
+aBS - District 7 (IJzer);Rubus armeniacus;2996525;227;1;0,00440528634361234;0,4;0,00318471337579618;0,32
+aBS - District 7 (IJzer);Rudbeckia laciniata;3114229;72;0;0;0;0;0
+aBS - District 7 (IJzer);Solidago canadensis;5389029;948;2;0,00210970464135021;0,2;0,00636942675159236;0,64
+aBS - District 7 (IJzer);Solidago gigantea;5389017;3240;39;0,012037037037037;1,2;0,124203821656051;12,42
+aBS - District 7 (IJzer);Spiraea alba;3026585;21;0;0;0;0;0
+aBS - District 7 (IJzer);Spiraea douglasii;3027159;265;0;0;0;0;0
+aBS - District 7 (IJzer);Spiraea salicifolia;3026454;9;0;0;0;0;0
+aBS - District 7 (IJzer);Spiraea tomentosa;3026819;21;0;0;0;0;0
+aBS - District 7 (IJzer);Spiraea billardii;7889822;23;0;0;0;0;0
+aBS - District 6 (Kanalen-West);Acer negundo;3189866;555;8;0,0144144144144144;1,4;0,0536912751677852;5,37
+aBS - District 6 (Kanalen-West);Ailanthus altissima;3190653;633;18;0,028436018957346;2,8;0,120805369127517;12,08
+aBS - District 6 (Kanalen-West);Aponogeton distachyos;5328593;27;1;0,037037037037037;3,7;0,00671140939597315;0,67
+aBS - District 6 (Kanalen-West);Arundo donax;2703041;5;0;0;0;0;0
+aBS - District 6 (Kanalen-West);Asclepias syriaca;3170247;30;1;0,0333333333333333;3,3;0,00671140939597315;0,67
+aBS - District 6 (Kanalen-West);Azolla filiculoides;2650107;264;14;0,053030303030303;5,3;0,0939597315436242;9,4
+aBS - District 6 (Kanalen-West);Baccharis halimifolia;3129663;130;5;0,0384615384615385;3,8;0,0335570469798658;3,36
+aBS - District 6 (Kanalen-West);Cabomba caroliniana;2882443;11;0;0;0;0;0
+aBS - District 6 (Kanalen-West);Cotoneaster horizontalis;3025617;437;14;0,0320366132723112;3,2;0,0939597315436242;9,4
+aBS - District 6 (Kanalen-West);Elodea densa;5329263;16;0;0;0;0;0
+aBS - District 6 (Kanalen-West);Pontederia crassipes;2765942;18;0;0;0;0;0
+aBS - District 6 (Kanalen-West);Elaeagnus angustifolia;3039269;179;1;0,00558659217877095;0,6;0,00671140939597315;0,67
+aBS - District 6 (Kanalen-West);Elodea canadensis;2865448;64;1;0,015625;1,6;0,00671140939597315;0,67
+aBS - District 6 (Kanalen-West);Elodea nuttallii;5329212;591;14;0,0236886632825719;2,4;0,0939597315436242;9,4
+aBS - District 6 (Kanalen-West);Fallopia baldschuanica;5334351;356;8;0,0224719101123595;2,2;0,0536912751677852;5,37
+aBS - District 6 (Kanalen-West);Fraxinus pennsylvanica;3172348;46;1;0,0217391304347826;2,2;0,00671140939597315;0,67
+aBS - District 6 (Kanalen-West);Helianthus tuberosus;3119175;300;1;0,00333333333333333;0,3;0,00671140939597315;0,67
+aBS - District 6 (Kanalen-West);Helianthus laetiflorus;3119181;44;1;0,0227272727272727;2,3;0,00671140939597315;0,67
+aBS - District 6 (Kanalen-West);Heracleum mantegazzianum;3034825;2812;36;0,0128022759601707;1,3;0,241610738255034;24,16
+aBS - District 6 (Kanalen-West);Hydrocotyle ranunculoides;7978544;537;13;0,0242085661080074;2,4;0,087248322147651;8,72
+aBS - District 6 (Kanalen-West);Impatiens capensis;2891774;56;1;0,0178571428571429;1,8;0,00671140939597315;0,67
+aBS - District 6 (Kanalen-West);Impatiens glandulifera;2891770;3707;28;0,00755327758295117;0,8;0,187919463087248;18,79
+aBS - District 6 (Kanalen-West);Koenigia polystachya;8848208;42;0;0;0;0;0
+aBS - District 6 (Kanalen-West);Laburnum anagyroides;5356345;198;5;0,0252525252525253;2,5;0,0335570469798658;3,36
+aBS - District 6 (Kanalen-West);Lagarosiphon major;2865565;34;0;0;0;0;0
+aBS - District 6 (Kanalen-West);Lemna minuta;2867614;883;13;0,014722536806342;1,5;0,087248322147651;8,72
+aBS - District 6 (Kanalen-West);Lemna turionifera;2867631;103;4;0,0388349514563107;3,9;0,0268456375838926;2,68
+aBS - District 6 (Kanalen-West);Hydrocharis laevigata;11055820;2;0;0;0;0;0
+aBS - District 6 (Kanalen-West);Ludwigia grandiflora;5421039;476;4;0,00840336134453781;0,8;0,0268456375838926;2,68
+aBS - District 6 (Kanalen-West);Ludwigia peploides;5420991;18;0;0;0;0;0
+aBS - District 6 (Kanalen-West);Mahonia aquifolium;3033865;1917;17;0,00886802295253;0,9;0,114093959731544;11,41
+aBS - District 6 (Kanalen-West);Myriophyllum aquaticum;5361785;479;2;0,00417536534446764;0,4;0,0134228187919463;1,34
+aBS - District 6 (Kanalen-West);Myriophyllum heterophyllum;5361762;67;0;0;0;0;0
+aBS - District 6 (Kanalen-West);Myriophyllum rubricaule;11742641;16;0;0;0;0;0
+aBS - District 6 (Kanalen-West);Parthenocissus inserta;3039203;423;7;0,016548463356974;1,7;0,0469798657718121;4,7
+aBS - District 6 (Kanalen-West);Parthenocissus quinquefolia;3039194;156;0;0;0;0;0
+aBS - District 6 (Kanalen-West);Parthenocissus tricuspidata;3039209;304;8;0,0263157894736842;2,6;0,0536912751677852;5,37
+aBS - District 6 (Kanalen-West);Pistia stratiotes;2870583;43;0;0;0;0;0
+aBS - District 6 (Kanalen-West);Prunus laurocerasus;3021496;2255;25;0,0110864745011086;1,1;0,167785234899329;16,78
+aBS - District 6 (Kanalen-West);Prunus serotina;3021850;6032;34;0,00563660477453581;0,6;0,228187919463087;22,82
+aBS - District 6 (Kanalen-West);Reynoutria japonica;2889173;5136;66;0,0128504672897196;1,3;0,442953020134228;44,3
+aBS - District 6 (Kanalen-West);Reynoutria sachalinensis;2889088;129;4;0,0310077519379845;3,1;0,0268456375838926;2,68
+aBS - District 6 (Kanalen-West);Reynoutria bohemica;4038485;140;3;0,0214285714285714;2,1;0,0201342281879195;2,01
+aBS - District 6 (Kanalen-West);Rhus typhina;3190538;742;8;0,0107816711590297;1,1;0,0536912751677852;5,37
+aBS - District 6 (Kanalen-West);Robinia pseudoacacia;5352251;4017;34;0,00846402788150361;0,8;0,228187919463087;22,82
+aBS - District 6 (Kanalen-West);Rosa rugosa;3003979;1761;27;0,0153321976149915;1,5;0,181208053691275;18,12
+aBS - District 6 (Kanalen-West);Rubus armeniacus;2996525;227;4;0,0176211453744493;1,8;0,0268456375838926;2,68
+aBS - District 6 (Kanalen-West);Rudbeckia laciniata;3114229;72;1;0,0138888888888889;1,4;0,00671140939597315;0,67
+aBS - District 6 (Kanalen-West);Solidago canadensis;5389029;948;6;0,00632911392405063;0,6;0,0402684563758389;4,03
+aBS - District 6 (Kanalen-West);Solidago gigantea;5389017;3240;43;0,0132716049382716;1,3;0,288590604026846;28,86
+aBS - District 6 (Kanalen-West);Spiraea alba;3026585;21;0;0;0;0;0
+aBS - District 6 (Kanalen-West);Spiraea douglasii;3027159;265;0;0;0;0;0
+aBS - District 6 (Kanalen-West);Spiraea salicifolia;3026454;9;0;0;0;0;0
+aBS - District 6 (Kanalen-West);Spiraea tomentosa;3026819;21;0;0;0;0;0
+aBS - District 6 (Kanalen-West);Spiraea billardii;7889822;23;0;0;0;0;0
+aBS - District 3 (Leie);Acer negundo;3189866;555;10;0,018018018018018;1,8;0,0510204081632653;5,1
+aBS - District 3 (Leie);Ailanthus altissima;3190653;633;12;0,018957345971564;1,9;0,0612244897959184;6,12
+aBS - District 3 (Leie);Aponogeton distachyos;5328593;27;0;0;0;0;0
+aBS - District 3 (Leie);Arundo donax;2703041;5;0;0;0;0;0
+aBS - District 3 (Leie);Asclepias syriaca;3170247;30;0;0;0;0;0
+aBS - District 3 (Leie);Azolla filiculoides;2650107;264;6;0,0227272727272727;2,3;0,0306122448979592;3,06
+aBS - District 3 (Leie);Baccharis halimifolia;3129663;130;1;0,00769230769230769;0,8;0,00510204081632653;0,51
+aBS - District 3 (Leie);Cabomba caroliniana;2882443;11;0;0;0;0;0
+aBS - District 3 (Leie);Cotoneaster horizontalis;3025617;437;11;0,0251716247139588;2,5;0,0561224489795918;5,61
+aBS - District 3 (Leie);Elodea densa;5329263;16;0;0;0;0;0
+aBS - District 3 (Leie);Pontederia crassipes;2765942;18;0;0;0;0;0
+aBS - District 3 (Leie);Elaeagnus angustifolia;3039269;179;2;0,0111731843575419;1,1;0,0102040816326531;1,02
+aBS - District 3 (Leie);Elodea canadensis;2865448;64;1;0,015625;1,6;0,00510204081632653;0,51
+aBS - District 3 (Leie);Elodea nuttallii;5329212;591;2;0,00338409475465313;0,3;0,0102040816326531;1,02
+aBS - District 3 (Leie);Fallopia baldschuanica;5334351;356;7;0,0196629213483146;2;0,0357142857142857;3,57
+aBS - District 3 (Leie);Fraxinus pennsylvanica;3172348;46;3;0,0652173913043478;6,5;0,0153061224489796;1,53
+aBS - District 3 (Leie);Helianthus tuberosus;3119175;300;6;0,02;2;0,0306122448979592;3,06
+aBS - District 3 (Leie);Helianthus laetiflorus;3119181;44;3;0,0681818181818182;6,8;0,0153061224489796;1,53
+aBS - District 3 (Leie);Heracleum mantegazzianum;3034825;2812;100;0,0355618776671408;3,6;0,510204081632653;51,02
+aBS - District 3 (Leie);Hydrocotyle ranunculoides;7978544;537;47;0,0875232774674116;8,8;0,239795918367347;23,98
+aBS - District 3 (Leie);Impatiens capensis;2891774;56;7;0,125;12,5;0,0357142857142857;3,57
+aBS - District 3 (Leie);Impatiens glandulifera;2891770;3707;48;0,0129484758564877;1,3;0,244897959183673;24,49
+aBS - District 3 (Leie);Koenigia polystachya;8848208;42;0;0;0;0;0
+aBS - District 3 (Leie);Laburnum anagyroides;5356345;198;1;0,00505050505050505;0,5;0,00510204081632653;0,51
+aBS - District 3 (Leie);Lagarosiphon major;2865565;34;0;0;0;0;0
+aBS - District 3 (Leie);Lemna minuta;2867614;883;13;0,014722536806342;1,5;0,0663265306122449;6,63
+aBS - District 3 (Leie);Lemna turionifera;2867631;103;0;0;0;0;0
+aBS - District 3 (Leie);Hydrocharis laevigata;11055820;2;0;0;0;0;0
+aBS - District 3 (Leie);Ludwigia grandiflora;5421039;476;14;0,0294117647058824;2,9;0,0714285714285714;7,14
+aBS - District 3 (Leie);Ludwigia peploides;5420991;18;1;0,0555555555555556;5,6;0,00510204081632653;0,51
+aBS - District 3 (Leie);Mahonia aquifolium;3033865;1917;49;0,0255607720396453;2,6;0,25;25
+aBS - District 3 (Leie);Myriophyllum aquaticum;5361785;479;3;0,00626304801670146;0,6;0,0153061224489796;1,53
+aBS - District 3 (Leie);Myriophyllum heterophyllum;5361762;67;0;0;0;0;0
+aBS - District 3 (Leie);Myriophyllum rubricaule;11742641;16;1;0,0625;6,2;0,00510204081632653;0,51
+aBS - District 3 (Leie);Parthenocissus inserta;3039203;423;5;0,0118203309692671;1,2;0,0255102040816327;2,55
+aBS - District 3 (Leie);Parthenocissus quinquefolia;3039194;156;2;0,0128205128205128;1,3;0,0102040816326531;1,02
+aBS - District 3 (Leie);Parthenocissus tricuspidata;3039209;304;11;0,0361842105263158;3,6;0,0561224489795918;5,61
+aBS - District 3 (Leie);Pistia stratiotes;2870583;43;0;0;0;0;0
+aBS - District 3 (Leie);Prunus laurocerasus;3021496;2255;44;0,0195121951219512;2;0,224489795918367;22,45
+aBS - District 3 (Leie);Prunus serotina;3021850;6032;52;0,00862068965517241;0,9;0,26530612244898;26,53
+aBS - District 3 (Leie);Reynoutria japonica;2889173;5136;98;0,0190809968847352;1,9;0,5;50
+aBS - District 3 (Leie);Reynoutria sachalinensis;2889088;129;0;0;0;0;0
+aBS - District 3 (Leie);Reynoutria bohemica;4038485;140;2;0,0142857142857143;1,4;0,0102040816326531;1,02
+aBS - District 3 (Leie);Rhus typhina;3190538;742;11;0,0148247978436658;1,5;0,0561224489795918;5,61
+aBS - District 3 (Leie);Robinia pseudoacacia;5352251;4017;44;0,0109534478466517;1,1;0,224489795918367;22,45
+aBS - District 3 (Leie);Rosa rugosa;3003979;1761;30;0,0170357751277683;1,7;0,153061224489796;15,31
+aBS - District 3 (Leie);Rubus armeniacus;2996525;227;6;0,026431718061674;2,6;0,0306122448979592;3,06
+aBS - District 3 (Leie);Rudbeckia laciniata;3114229;72;0;0;0;0;0
+aBS - District 3 (Leie);Solidago canadensis;5389029;948;7;0,00738396624472574;0,7;0,0357142857142857;3,57
+aBS - District 3 (Leie);Solidago gigantea;5389017;3240;49;0,0151234567901235;1,5;0,25;25
+aBS - District 3 (Leie);Spiraea alba;3026585;21;0;0;0;0;0
+aBS - District 3 (Leie);Spiraea douglasii;3027159;265;1;0,00377358490566038;0,4;0,00510204081632653;0,51
+aBS - District 3 (Leie);Spiraea salicifolia;3026454;9;0;0;0;0;0
+aBS - District 3 (Leie);Spiraea tomentosa;3026819;21;0;0;0;0;0
+aBS - District 3 (Leie);Spiraea billardii;7889822;23;0;0;0;0;0
+aBS - District 2 (Boven-Schelde);Acer negundo;3189866;555;12;0,0216216216216216;2,2;0,0555555555555556;5,56
+aBS - District 2 (Boven-Schelde);Ailanthus altissima;3190653;633;18;0,028436018957346;2,8;0,0833333333333333;8,33
+aBS - District 2 (Boven-Schelde);Aponogeton distachyos;5328593;27;0;0;0;0;0
+aBS - District 2 (Boven-Schelde);Arundo donax;2703041;5;0;0;0;0;0
+aBS - District 2 (Boven-Schelde);Asclepias syriaca;3170247;30;0;0;0;0;0
+aBS - District 2 (Boven-Schelde);Azolla filiculoides;2650107;264;3;0,0113636363636364;1,1;0,0138888888888889;1,39
+aBS - District 2 (Boven-Schelde);Baccharis halimifolia;3129663;130;0;0;0;0;0
+aBS - District 2 (Boven-Schelde);Cabomba caroliniana;2882443;11;0;0;0;0;0
+aBS - District 2 (Boven-Schelde);Cotoneaster horizontalis;3025617;437;24;0,0549199084668192;5,5;0,111111111111111;11,11
+aBS - District 2 (Boven-Schelde);Elodea densa;5329263;16;1;0,0625;6,2;0,00462962962962963;0,46
+aBS - District 2 (Boven-Schelde);Pontederia crassipes;2765942;18;1;0,0555555555555556;5,6;0,00462962962962963;0,46
+aBS - District 2 (Boven-Schelde);Elaeagnus angustifolia;3039269;179;1;0,00558659217877095;0,6;0,00462962962962963;0,46
+aBS - District 2 (Boven-Schelde);Elodea canadensis;2865448;64;0;0;0;0;0
+aBS - District 2 (Boven-Schelde);Elodea nuttallii;5329212;591;6;0,0101522842639594;1;0,0277777777777778;2,78
+aBS - District 2 (Boven-Schelde);Fallopia baldschuanica;5334351;356;15;0,0421348314606742;4,2;0,0694444444444444;6,94
+aBS - District 2 (Boven-Schelde);Fraxinus pennsylvanica;3172348;46;3;0,0652173913043478;6,5;0,0138888888888889;1,39
+aBS - District 2 (Boven-Schelde);Helianthus tuberosus;3119175;300;6;0,02;2;0,0277777777777778;2,78
+aBS - District 2 (Boven-Schelde);Helianthus laetiflorus;3119181;44;3;0,0681818181818182;6,8;0,0138888888888889;1,39
+aBS - District 2 (Boven-Schelde);Heracleum mantegazzianum;3034825;2812;106;0,0376955903271693;3,8;0,490740740740741;49,07
+aBS - District 2 (Boven-Schelde);Hydrocotyle ranunculoides;7978544;537;9;0,0167597765363128;1,7;0,0416666666666667;4,17
+aBS - District 2 (Boven-Schelde);Impatiens capensis;2891774;56;0;0;0;0;0
+aBS - District 2 (Boven-Schelde);Impatiens glandulifera;2891770;3707;96;0,0258969517129755;2,6;0,444444444444444;44,44
+aBS - District 2 (Boven-Schelde);Koenigia polystachya;8848208;42;1;0,0238095238095238;2,4;0,00462962962962963;0,46
+aBS - District 2 (Boven-Schelde);Laburnum anagyroides;5356345;198;8;0,0404040404040404;4;0,037037037037037;3,7
+aBS - District 2 (Boven-Schelde);Lagarosiphon major;2865565;34;1;0,0294117647058824;2,9;0,00462962962962963;0,46
+aBS - District 2 (Boven-Schelde);Lemna minuta;2867614;883;42;0,0475651189127973;4,8;0,194444444444444;19,44
+aBS - District 2 (Boven-Schelde);Lemna turionifera;2867631;103;0;0;0;0;0
+aBS - District 2 (Boven-Schelde);Hydrocharis laevigata;11055820;2;0;0;0;0;0
+aBS - District 2 (Boven-Schelde);Ludwigia grandiflora;5421039;476;5;0,0105042016806723;1,1;0,0231481481481481;2,31
+aBS - District 2 (Boven-Schelde);Ludwigia peploides;5420991;18;1;0,0555555555555556;5,6;0,00462962962962963;0,46
+aBS - District 2 (Boven-Schelde);Mahonia aquifolium;3033865;1917;54;0,028169014084507;2,8;0,25;25
+aBS - District 2 (Boven-Schelde);Myriophyllum aquaticum;5361785;479;6;0,0125260960334029;1,3;0,0277777777777778;2,78
+aBS - District 2 (Boven-Schelde);Myriophyllum heterophyllum;5361762;67;0;0;0;0;0
+aBS - District 2 (Boven-Schelde);Myriophyllum rubricaule;11742641;16;0;0;0;0;0
+aBS - District 2 (Boven-Schelde);Parthenocissus inserta;3039203;423;19;0,0449172576832151;4,5;0,087962962962963;8,8
+aBS - District 2 (Boven-Schelde);Parthenocissus quinquefolia;3039194;156;6;0,0384615384615385;3,8;0,0277777777777778;2,78
+aBS - District 2 (Boven-Schelde);Parthenocissus tricuspidata;3039209;304;6;0,0197368421052632;2;0,0277777777777778;2,78
+aBS - District 2 (Boven-Schelde);Pistia stratiotes;2870583;43;1;0,0232558139534884;2,3;0,00462962962962963;0,46
+aBS - District 2 (Boven-Schelde);Prunus laurocerasus;3021496;2255;49;0,0217294900221729;2,2;0,226851851851852;22,69
+aBS - District 2 (Boven-Schelde);Prunus serotina;3021850;6032;79;0,0130968169761273;1,3;0,365740740740741;36,57
+aBS - District 2 (Boven-Schelde);Reynoutria japonica;2889173;5136;135;0,026285046728972;2,6;0,625;62,5
+aBS - District 2 (Boven-Schelde);Reynoutria sachalinensis;2889088;129;4;0,0310077519379845;3,1;0,0185185185185185;1,85
+aBS - District 2 (Boven-Schelde);Reynoutria bohemica;4038485;140;26;0,185714285714286;18,6;0,12037037037037;12,04
+aBS - District 2 (Boven-Schelde);Rhus typhina;3190538;742;24;0,032345013477089;3,2;0,111111111111111;11,11
+aBS - District 2 (Boven-Schelde);Robinia pseudoacacia;5352251;4017;73;0,0181727657455813;1,8;0,337962962962963;33,8
+aBS - District 2 (Boven-Schelde);Rosa rugosa;3003979;1761;48;0,0272572402044293;2,7;0,222222222222222;22,22
+aBS - District 2 (Boven-Schelde);Rubus armeniacus;2996525;227;4;0,0176211453744493;1,8;0,0185185185185185;1,85
+aBS - District 2 (Boven-Schelde);Rudbeckia laciniata;3114229;72;1;0,0138888888888889;1,4;0,00462962962962963;0,46
+aBS - District 2 (Boven-Schelde);Solidago canadensis;5389029;948;8;0,00843881856540084;0,8;0,037037037037037;3,7
+aBS - District 2 (Boven-Schelde);Solidago gigantea;5389017;3240;100;0,0308641975308642;3,1;0,462962962962963;46,3
+aBS - District 2 (Boven-Schelde);Spiraea alba;3026585;21;0;0;0;0;0
+aBS - District 2 (Boven-Schelde);Spiraea douglasii;3027159;265;1;0,00377358490566038;0,4;0,00462962962962963;0,46
+aBS - District 2 (Boven-Schelde);Spiraea salicifolia;3026454;9;0;0;0;0;0
+aBS - District 2 (Boven-Schelde);Spiraea tomentosa;3026819;21;0;0;0;0;0
+aBS - District 2 (Boven-Schelde);Spiraea billardii;7889822;23;3;0,130434782608696;13;0,0138888888888889;1,39
+aBS - District 5 (Kanalen-Oost);Acer negundo;3189866;555;14;0,0252252252252252;2,5;0,0375335120643432;3,75
+aBS - District 5 (Kanalen-Oost);Ailanthus altissima;3190653;633;18;0,028436018957346;2,8;0,0482573726541555;4,83
+aBS - District 5 (Kanalen-Oost);Aponogeton distachyos;5328593;27;0;0;0;0;0
+aBS - District 5 (Kanalen-Oost);Arundo donax;2703041;5;0;0;0;0;0
+aBS - District 5 (Kanalen-Oost);Asclepias syriaca;3170247;30;0;0;0;0;0
+aBS - District 5 (Kanalen-Oost);Azolla filiculoides;2650107;264;17;0,0643939393939394;6,4;0,0455764075067024;4,56
+aBS - District 5 (Kanalen-Oost);Baccharis halimifolia;3129663;130;1;0,00769230769230769;0,8;0,00268096514745308;0,27
+aBS - District 5 (Kanalen-Oost);Cabomba caroliniana;2882443;11;0;0;0;0;0
+aBS - District 5 (Kanalen-Oost);Cotoneaster horizontalis;3025617;437;13;0,0297482837528604;3;0,0348525469168901;3,49
+aBS - District 5 (Kanalen-Oost);Elodea densa;5329263;16;0;0;0;0;0
+aBS - District 5 (Kanalen-Oost);Pontederia crassipes;2765942;18;0;0;0;0;0
+aBS - District 5 (Kanalen-Oost);Elaeagnus angustifolia;3039269;179;6;0,0335195530726257;3,4;0,0160857908847185;1,61
+aBS - District 5 (Kanalen-Oost);Elodea canadensis;2865448;64;4;0,0625;6,2;0,0107238605898123;1,07
+aBS - District 5 (Kanalen-Oost);Elodea nuttallii;5329212;591;23;0,038917089678511;3,9;0,0616621983914209;6,17
+aBS - District 5 (Kanalen-Oost);Fallopia baldschuanica;5334351;356;5;0,0140449438202247;1,4;0,0134048257372654;1,34
+aBS - District 5 (Kanalen-Oost);Fraxinus pennsylvanica;3172348;46;1;0,0217391304347826;2,2;0,00268096514745308;0,27
+aBS - District 5 (Kanalen-Oost);Helianthus tuberosus;3119175;300;1;0,00333333333333333;0,3;0,00268096514745308;0,27
+aBS - District 5 (Kanalen-Oost);Helianthus laetiflorus;3119181;44;1;0,0227272727272727;2,3;0,00268096514745308;0,27
+aBS - District 5 (Kanalen-Oost);Heracleum mantegazzianum;3034825;2812;88;0,0312944523470839;3,1;0,235924932975871;23,59
+aBS - District 5 (Kanalen-Oost);Hydrocotyle ranunculoides;7978544;537;36;0,0670391061452514;6,7;0,096514745308311;9,65
+aBS - District 5 (Kanalen-Oost);Impatiens capensis;2891774;56;4;0,0714285714285714;7,1;0,0107238605898123;1,07
+aBS - District 5 (Kanalen-Oost);Impatiens glandulifera;2891770;3707;84;0,0226598327488535;2,3;0,225201072386059;22,52
+aBS - District 5 (Kanalen-Oost);Koenigia polystachya;8848208;42;0;0;0;0;0
+aBS - District 5 (Kanalen-Oost);Laburnum anagyroides;5356345;198;4;0,0202020202020202;2;0,0107238605898123;1,07
+aBS - District 5 (Kanalen-Oost);Lagarosiphon major;2865565;34;0;0;0;0;0
+aBS - District 5 (Kanalen-Oost);Lemna minuta;2867614;883;30;0,0339750849377123;3,4;0,0804289544235925;8,04
+aBS - District 5 (Kanalen-Oost);Lemna turionifera;2867631;103;5;0,0485436893203883;4,9;0,0134048257372654;1,34
+aBS - District 5 (Kanalen-Oost);Hydrocharis laevigata;11055820;2;0;0;0;0;0
+aBS - District 5 (Kanalen-Oost);Ludwigia grandiflora;5421039;476;9;0,0189075630252101;1,9;0,0241286863270777;2,41
+aBS - District 5 (Kanalen-Oost);Ludwigia peploides;5420991;18;1;0,0555555555555556;5,6;0,00268096514745308;0,27
+aBS - District 5 (Kanalen-Oost);Mahonia aquifolium;3033865;1917;32;0,0166927490871153;1,7;0,0857908847184987;8,58
+aBS - District 5 (Kanalen-Oost);Myriophyllum aquaticum;5361785;479;7;0,0146137787056367;1,5;0,0187667560321716;1,88
+aBS - District 5 (Kanalen-Oost);Myriophyllum heterophyllum;5361762;67;0;0;0;0;0
+aBS - District 5 (Kanalen-Oost);Myriophyllum rubricaule;11742641;16;1;0,0625;6,2;0,00268096514745308;0,27
+aBS - District 5 (Kanalen-Oost);Parthenocissus inserta;3039203;423;9;0,0212765957446809;2,1;0,0241286863270777;2,41
+aBS - District 5 (Kanalen-Oost);Parthenocissus quinquefolia;3039194;156;1;0,00641025641025641;0,6;0,00268096514745308;0,27
+aBS - District 5 (Kanalen-Oost);Parthenocissus tricuspidata;3039209;304;9;0,0296052631578947;3;0,0241286863270777;2,41
+aBS - District 5 (Kanalen-Oost);Pistia stratiotes;2870583;43;0;0;0;0;0
+aBS - District 5 (Kanalen-Oost);Prunus laurocerasus;3021496;2255;33;0,0146341463414634;1,5;0,0884718498659517;8,85
+aBS - District 5 (Kanalen-Oost);Prunus serotina;3021850;6032;110;0,018236074270557;1,8;0,294906166219839;29,49
+aBS - District 5 (Kanalen-Oost);Reynoutria japonica;2889173;5136;122;0,0237538940809969;2,4;0,327077747989276;32,71
+aBS - District 5 (Kanalen-Oost);Reynoutria sachalinensis;2889088;129;4;0,0310077519379845;3,1;0,0107238605898123;1,07
+aBS - District 5 (Kanalen-Oost);Reynoutria bohemica;4038485;140;6;0,0428571428571429;4,3;0,0160857908847185;1,61
+aBS - District 5 (Kanalen-Oost);Rhus typhina;3190538;742;9;0,0121293800539084;1,2;0,0241286863270777;2,41
+aBS - District 5 (Kanalen-Oost);Robinia pseudoacacia;5352251;4017;68;0,0169280557630072;1,7;0,18230563002681;18,23
+aBS - District 5 (Kanalen-Oost);Rosa rugosa;3003979;1761;53;0,0300965360590574;3;0,142091152815013;14,21
+aBS - District 5 (Kanalen-Oost);Rubus armeniacus;2996525;227;14;0,0616740088105727;6,2;0,0375335120643432;3,75
+aBS - District 5 (Kanalen-Oost);Rudbeckia laciniata;3114229;72;2;0,0277777777777778;2,8;0,00536193029490617;0,54
+aBS - District 5 (Kanalen-Oost);Solidago canadensis;5389029;948;16;0,0168776371308017;1,7;0,0428954423592493;4,29
+aBS - District 5 (Kanalen-Oost);Solidago gigantea;5389017;3240;63;0,0194444444444444;1,9;0,168900804289544;16,89
+aBS - District 5 (Kanalen-Oost);Spiraea alba;3026585;21;0;0;0;0;0
+aBS - District 5 (Kanalen-Oost);Spiraea douglasii;3027159;265;1;0,00377358490566038;0,4;0,00268096514745308;0,27
+aBS - District 5 (Kanalen-Oost);Spiraea salicifolia;3026454;9;0;0;0;0;0
+aBS - District 5 (Kanalen-Oost);Spiraea tomentosa;3026819;21;0;0;0;0;0
+aBS - District 5 (Kanalen-Oost);Spiraea billardii;7889822;23;2;0,0869565217391304;8,7;0,00536193029490617;0,54
+aBS - District 1 (Gent);Acer negundo;3189866;555;40;0,0720720720720721;7,2;0,272108843537415;27,21
+aBS - District 1 (Gent);Ailanthus altissima;3190653;633;61;0,0963665086887836;9,6;0,414965986394558;41,5
+aBS - District 1 (Gent);Aponogeton distachyos;5328593;27;0;0;0;0;0
+aBS - District 1 (Gent);Arundo donax;2703041;5;0;0;0;0;0
+aBS - District 1 (Gent);Asclepias syriaca;3170247;30;0;0;0;0;0
+aBS - District 1 (Gent);Azolla filiculoides;2650107;264;13;0,0492424242424242;4,9;0,0884353741496599;8,84
+aBS - District 1 (Gent);Baccharis halimifolia;3129663;130;0;0;0;0;0
+aBS - District 1 (Gent);Cabomba caroliniana;2882443;11;0;0;0;0;0
+aBS - District 1 (Gent);Cotoneaster horizontalis;3025617;437;25;0,05720823798627;5,7;0,170068027210884;17,01
+aBS - District 1 (Gent);Elodea densa;5329263;16;0;0;0;0;0
+aBS - District 1 (Gent);Pontederia crassipes;2765942;18;0;0;0;0;0
+aBS - District 1 (Gent);Elaeagnus angustifolia;3039269;179;5;0,0279329608938547;2,8;0,0340136054421769;3,4
+aBS - District 1 (Gent);Elodea canadensis;2865448;64;1;0,015625;1,6;0,00680272108843537;0,68
+aBS - District 1 (Gent);Elodea nuttallii;5329212;591;10;0,0169204737732657;1,7;0,0680272108843537;6,8
+aBS - District 1 (Gent);Fallopia baldschuanica;5334351;356;17;0,047752808988764;4,8;0,115646258503401;11,56
+aBS - District 1 (Gent);Fraxinus pennsylvanica;3172348;46;11;0,239130434782609;23,9;0,0748299319727891;7,48
+aBS - District 1 (Gent);Helianthus tuberosus;3119175;300;13;0,0433333333333333;4,3;0,0884353741496599;8,84
+aBS - District 1 (Gent);Helianthus laetiflorus;3119181;44;5;0,113636363636364;11,4;0,0340136054421769;3,4
+aBS - District 1 (Gent);Heracleum mantegazzianum;3034825;2812;90;0,0320056899004267;3,2;0,612244897959184;61,22
+aBS - District 1 (Gent);Hydrocotyle ranunculoides;7978544;537;27;0,0502793296089385;5;0,183673469387755;18,37
+aBS - District 1 (Gent);Impatiens capensis;2891774;56;3;0,0535714285714286;5,4;0,0204081632653061;2,04
+aBS - District 1 (Gent);Impatiens glandulifera;2891770;3707;63;0,0169948745616401;1,7;0,428571428571429;42,86
+aBS - District 1 (Gent);Koenigia polystachya;8848208;42;3;0,0714285714285714;7,1;0,0204081632653061;2,04
+aBS - District 1 (Gent);Laburnum anagyroides;5356345;198;21;0,106060606060606;10,6;0,142857142857143;14,29
+aBS - District 1 (Gent);Lagarosiphon major;2865565;34;12;0,352941176470588;35,3;0,0816326530612245;8,16
+aBS - District 1 (Gent);Lemna minuta;2867614;883;47;0,0532276330690827;5,3;0,319727891156463;31,97
+aBS - District 1 (Gent);Lemna turionifera;2867631;103;8;0,0776699029126214;7,8;0,054421768707483;5,44
+aBS - District 1 (Gent);Hydrocharis laevigata;11055820;2;0;0;0;0;0
+aBS - District 1 (Gent);Ludwigia grandiflora;5421039;476;6;0,0126050420168067;1,3;0,0408163265306122;4,08
+aBS - District 1 (Gent);Ludwigia peploides;5420991;18;4;0,222222222222222;22,2;0,0272108843537415;2,72
+aBS - District 1 (Gent);Mahonia aquifolium;3033865;1917;70;0,0365153886280647;3,7;0,476190476190476;47,62
+aBS - District 1 (Gent);Myriophyllum aquaticum;5361785;479;6;0,0125260960334029;1,3;0,0408163265306122;4,08
+aBS - District 1 (Gent);Myriophyllum heterophyllum;5361762;67;1;0,0149253731343284;1,5;0,00680272108843537;0,68
+aBS - District 1 (Gent);Myriophyllum rubricaule;11742641;16;1;0,0625;6,2;0,00680272108843537;0,68
+aBS - District 1 (Gent);Parthenocissus inserta;3039203;423;29;0,0685579196217494;6,9;0,197278911564626;19,73
+aBS - District 1 (Gent);Parthenocissus quinquefolia;3039194;156;12;0,0769230769230769;7,7;0,0816326530612245;8,16
+aBS - District 1 (Gent);Parthenocissus tricuspidata;3039209;304;21;0,0690789473684211;6,9;0,142857142857143;14,29
+aBS - District 1 (Gent);Pistia stratiotes;2870583;43;0;0;0;0;0
+aBS - District 1 (Gent);Prunus laurocerasus;3021496;2255;56;0,0248337028824834;2,5;0,380952380952381;38,1
+aBS - District 1 (Gent);Prunus serotina;3021850;6032;95;0,0157493368700265;1,6;0,646258503401361;64,63
+aBS - District 1 (Gent);Reynoutria japonica;2889173;5136;114;0,022196261682243;2,2;0,775510204081633;77,55
+aBS - District 1 (Gent);Reynoutria sachalinensis;2889088;129;10;0,0775193798449612;7,8;0,0680272108843537;6,8
+aBS - District 1 (Gent);Reynoutria bohemica;4038485;140;14;0,1;10;0,0952380952380952;9,52
+aBS - District 1 (Gent);Rhus typhina;3190538;742;34;0,045822102425876;4,6;0,231292517006803;23,13
+aBS - District 1 (Gent);Robinia pseudoacacia;5352251;4017;91;0,0226537216828479;2,3;0,619047619047619;61,9
+aBS - District 1 (Gent);Rosa rugosa;3003979;1761;66;0,0374787052810903;3,7;0,448979591836735;44,9
+aBS - District 1 (Gent);Rubus armeniacus;2996525;227;29;0,127753303964758;12,8;0,197278911564626;19,73
+aBS - District 1 (Gent);Rudbeckia laciniata;3114229;72;0;0;0;0;0
+aBS - District 1 (Gent);Solidago canadensis;5389029;948;39;0,0411392405063291;4,1;0,26530612244898;26,53
+aBS - District 1 (Gent);Solidago gigantea;5389017;3240;94;0,0290123456790123;2,9;0,639455782312925;63,95
+aBS - District 1 (Gent);Spiraea alba;3026585;21;1;0,0476190476190476;4,8;0,00680272108843537;0,68
+aBS - District 1 (Gent);Spiraea douglasii;3027159;265;7;0,0264150943396226;2,6;0,0476190476190476;4,76
+aBS - District 1 (Gent);Spiraea salicifolia;3026454;9;0;0;0;0;0
+aBS - District 1 (Gent);Spiraea tomentosa;3026819;21;0;0;0;0;0
+aBS - District 1 (Gent);Spiraea billardii;7889822;23;3;0,130434782608696;13;0,0204081632653061;2,04
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Acer negundo;3189866;555;40;0,0720720720720721;7,2;0,165289256198347;16,53
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Ailanthus altissima;3190653;633;33;0,0521327014218009;5,2;0,136363636363636;13,64
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Aponogeton distachyos;5328593;27;0;0;0;0;0
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Arundo donax;2703041;5;0;0;0;0;0
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Asclepias syriaca;3170247;30;0;0;0;0;0
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Azolla filiculoides;2650107;264;14;0,053030303030303;5,3;0,0578512396694215;5,79
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Baccharis halimifolia;3129663;130;0;0;0;0;0
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Cabomba caroliniana;2882443;11;0;0;0;0;0
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Cotoneaster horizontalis;3025617;437;11;0,0251716247139588;2,5;0,0454545454545455;4,55
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Elodea densa;5329263;16;1;0,0625;6,2;0,00413223140495868;0,41
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Pontederia crassipes;2765942;18;0;0;0;0;0
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Elaeagnus angustifolia;3039269;179;3;0,0167597765363128;1,7;0,012396694214876;1,24
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Elodea canadensis;2865448;64;1;0,015625;1,6;0,00413223140495868;0,41
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Elodea nuttallii;5329212;591;12;0,0203045685279188;2;0,0495867768595041;4,96
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Fallopia baldschuanica;5334351;356;11;0,0308988764044944;3,1;0,0454545454545455;4,55
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Fraxinus pennsylvanica;3172348;46;5;0,108695652173913;10,9;0,0206611570247934;2,07
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Helianthus tuberosus;3119175;300;10;0,0333333333333333;3,3;0,0413223140495868;4,13
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Helianthus laetiflorus;3119181;44;2;0,0454545454545455;4,5;0,00826446280991736;0,83
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Heracleum mantegazzianum;3034825;2812;71;0,02524893314367;2,5;0,293388429752066;29,34
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Hydrocotyle ranunculoides;7978544;537;11;0,0204841713221601;2;0,0454545454545455;4,55
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Impatiens capensis;2891774;56;1;0,0178571428571429;1,8;0,00413223140495868;0,41
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Impatiens glandulifera;2891770;3707;185;0,0499055840302131;5;0,764462809917355;76,45
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Koenigia polystachya;8848208;42;0;0;0;0;0
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Laburnum anagyroides;5356345;198;9;0,0454545454545455;4,5;0,0371900826446281;3,72
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Lagarosiphon major;2865565;34;1;0,0294117647058824;2,9;0,00413223140495868;0,41
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Lemna minuta;2867614;883;42;0,0475651189127973;4,8;0,173553719008264;17,36
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Lemna turionifera;2867631;103;4;0,0388349514563107;3,9;0,0165289256198347;1,65
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Hydrocharis laevigata;11055820;2;0;0;0;0;0
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Ludwigia grandiflora;5421039;476;29;0,0609243697478992;6,1;0,119834710743802;11,98
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Ludwigia peploides;5420991;18;1;0,0555555555555556;5,6;0,00413223140495868;0,41
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Mahonia aquifolium;3033865;1917;67;0,0349504434011476;3,5;0,276859504132231;27,69
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Myriophyllum aquaticum;5361785;479;14;0,0292275574112735;2,9;0,0578512396694215;5,79
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Myriophyllum heterophyllum;5361762;67;0;0;0;0;0
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Myriophyllum rubricaule;11742641;16;0;0;0;0;0
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Parthenocissus inserta;3039203;423;18;0,0425531914893617;4,3;0,0743801652892562;7,44
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Parthenocissus quinquefolia;3039194;156;4;0,0256410256410256;2,6;0,0165289256198347;1,65
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Parthenocissus tricuspidata;3039209;304;10;0,0328947368421053;3,3;0,0413223140495868;4,13
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Pistia stratiotes;2870583;43;5;0,116279069767442;11,6;0,0206611570247934;2,07
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Prunus laurocerasus;3021496;2255;68;0,0301552106430155;3;0,28099173553719;28,1
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Prunus serotina;3021850;6032;135;0,0223806366047745;2,2;0,557851239669422;55,79
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Reynoutria japonica;2889173;5136;174;0,0338785046728972;3,4;0,71900826446281;71,9
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Reynoutria sachalinensis;2889088;129;4;0,0310077519379845;3,1;0,0165289256198347;1,65
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Reynoutria bohemica;4038485;140;19;0,135714285714286;13,6;0,0785123966942149;7,85
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Rhus typhina;3190538;742;30;0,0404312668463612;4;0,12396694214876;12,4
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Robinia pseudoacacia;5352251;4017;98;0,0243963156584516;2,4;0,40495867768595;40,5
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Rosa rugosa;3003979;1761;56;0,0318001135718342;3,2;0,231404958677686;23,14
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Rubus armeniacus;2996525;227;27;0,118942731277533;11,9;0,111570247933884;11,16
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Rudbeckia laciniata;3114229;72;1;0,0138888888888889;1,4;0,00413223140495868;0,41
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Solidago canadensis;5389029;948;22;0,0232067510548523;2,3;0,0909090909090909;9,09
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Solidago gigantea;5389017;3240;108;0,0333333333333333;3,3;0,446280991735537;44,63
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Spiraea alba;3026585;21;0;0;0;0;0
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Spiraea douglasii;3027159;265;5;0,0188679245283019;1,9;0,0206611570247934;2,07
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Spiraea salicifolia;3026454;9;1;0,111111111111111;11,1;0,00413223140495868;0,41
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Spiraea tomentosa;3026819;21;0;0;0;0;0
+aZS - District 1 (Boven-Zeeschelde (west), Beneden-Durme);Spiraea billardii;7889822;23;3;0,130434782608696;13;0,012396694214876;1,24
+aBS - District 4 (Dender, Moervaart);Acer negundo;3189866;555;11;0,0198198198198198;2;0,044;4,4
+aBS - District 4 (Dender, Moervaart);Ailanthus altissima;3190653;633;29;0,0458135860979463;4,6;0,116;11,6
+aBS - District 4 (Dender, Moervaart);Aponogeton distachyos;5328593;27;0;0;0;0;0
+aBS - District 4 (Dender, Moervaart);Arundo donax;2703041;5;0;0;0;0;0
+aBS - District 4 (Dender, Moervaart);Asclepias syriaca;3170247;30;0;0;0;0;0
+aBS - District 4 (Dender, Moervaart);Azolla filiculoides;2650107;264;4;0,0151515151515152;1,5;0,016;1,6
+aBS - District 4 (Dender, Moervaart);Baccharis halimifolia;3129663;130;3;0,0230769230769231;2,3;0,012;1,2
+aBS - District 4 (Dender, Moervaart);Cabomba caroliniana;2882443;11;0;0;0;0;0
+aBS - District 4 (Dender, Moervaart);Cotoneaster horizontalis;3025617;437;17;0,0389016018306636;3,9;0,068;6,8
+aBS - District 4 (Dender, Moervaart);Elodea densa;5329263;16;2;0,125;12,5;0,008;0,8
+aBS - District 4 (Dender, Moervaart);Pontederia crassipes;2765942;18;0;0;0;0;0
+aBS - District 4 (Dender, Moervaart);Elaeagnus angustifolia;3039269;179;5;0,0279329608938547;2,8;0,02;2
+aBS - District 4 (Dender, Moervaart);Elodea canadensis;2865448;64;0;0;0;0;0
+aBS - District 4 (Dender, Moervaart);Elodea nuttallii;5329212;591;7;0,011844331641286;1,2;0,028;2,8
+aBS - District 4 (Dender, Moervaart);Fallopia baldschuanica;5334351;356;9;0,0252808988764045;2,5;0,036;3,6
+aBS - District 4 (Dender, Moervaart);Fraxinus pennsylvanica;3172348;46;0;0;0;0;0
+aBS - District 4 (Dender, Moervaart);Helianthus tuberosus;3119175;300;8;0,0266666666666667;2,7;0,032;3,2
+aBS - District 4 (Dender, Moervaart);Helianthus laetiflorus;3119181;44;1;0,0227272727272727;2,3;0,004;0,4
+aBS - District 4 (Dender, Moervaart);Heracleum mantegazzianum;3034825;2812;78;0,0277382645803698;2,8;0,312;31,2
+aBS - District 4 (Dender, Moervaart);Hydrocotyle ranunculoides;7978544;537;30;0,0558659217877095;5,6;0,12;12
+aBS - District 4 (Dender, Moervaart);Impatiens capensis;2891774;56;0;0;0;0;0
+aBS - District 4 (Dender, Moervaart);Impatiens glandulifera;2891770;3707;149;0,0401942271378473;4;0,596;59,6
+aBS - District 4 (Dender, Moervaart);Koenigia polystachya;8848208;42;0;0;0;0;0
+aBS - District 4 (Dender, Moervaart);Laburnum anagyroides;5356345;198;8;0,0404040404040404;4;0,032;3,2
+aBS - District 4 (Dender, Moervaart);Lagarosiphon major;2865565;34;3;0,0882352941176471;8,8;0,012;1,2
+aBS - District 4 (Dender, Moervaart);Lemna minuta;2867614;883;30;0,0339750849377123;3,4;0,12;12
+aBS - District 4 (Dender, Moervaart);Lemna turionifera;2867631;103;2;0,0194174757281553;1,9;0,008;0,8
+aBS - District 4 (Dender, Moervaart);Hydrocharis laevigata;11055820;2;0;0;0;0;0
+aBS - District 4 (Dender, Moervaart);Ludwigia grandiflora;5421039;476;6;0,0126050420168067;1,3;0,024;2,4
+aBS - District 4 (Dender, Moervaart);Ludwigia peploides;5420991;18;0;0;0;0;0
+aBS - District 4 (Dender, Moervaart);Mahonia aquifolium;3033865;1917;53;0,0276473656755347;2,8;0,212;21,2
+aBS - District 4 (Dender, Moervaart);Myriophyllum aquaticum;5361785;479;8;0,0167014613778706;1,7;0,032;3,2
+aBS - District 4 (Dender, Moervaart);Myriophyllum heterophyllum;5361762;67;0;0;0;0;0
+aBS - District 4 (Dender, Moervaart);Myriophyllum rubricaule;11742641;16;0;0;0;0;0
+aBS - District 4 (Dender, Moervaart);Parthenocissus inserta;3039203;423;12;0,0283687943262411;2,8;0,048;4,8
+aBS - District 4 (Dender, Moervaart);Parthenocissus quinquefolia;3039194;156;7;0,0448717948717949;4,5;0,028;2,8
+aBS - District 4 (Dender, Moervaart);Parthenocissus tricuspidata;3039209;304;8;0,0263157894736842;2,6;0,032;3,2
+aBS - District 4 (Dender, Moervaart);Pistia stratiotes;2870583;43;1;0,0232558139534884;2,3;0,004;0,4
+aBS - District 4 (Dender, Moervaart);Prunus laurocerasus;3021496;2255;69;0,0305986696230599;3,1;0,276;27,6
+aBS - District 4 (Dender, Moervaart);Prunus serotina;3021850;6032;93;0,0154177718832891;1,5;0,372;37,2
+aBS - District 4 (Dender, Moervaart);Reynoutria japonica;2889173;5136;154;0,0299844236760125;3;0,616;61,6
+aBS - District 4 (Dender, Moervaart);Reynoutria sachalinensis;2889088;129;0;0;0;0;0
+aBS - District 4 (Dender, Moervaart);Reynoutria bohemica;4038485;140;2;0,0142857142857143;1,4;0,008;0,8
+aBS - District 4 (Dender, Moervaart);Rhus typhina;3190538;742;21;0,0283018867924528;2,8;0,084;8,4
+aBS - District 4 (Dender, Moervaart);Robinia pseudoacacia;5352251;4017;79;0,0196664177246702;2;0,316;31,6
+aBS - District 4 (Dender, Moervaart);Rosa rugosa;3003979;1761;43;0,0244179443498013;2,4;0,172;17,2
+aBS - District 4 (Dender, Moervaart);Rubus armeniacus;2996525;227;10;0,0440528634361234;4,4;0,04;4
+aBS - District 4 (Dender, Moervaart);Rudbeckia laciniata;3114229;72;0;0;0;0;0
+aBS - District 4 (Dender, Moervaart);Solidago canadensis;5389029;948;30;0,0316455696202532;3,2;0,12;12
+aBS - District 4 (Dender, Moervaart);Solidago gigantea;5389017;3240;127;0,0391975308641975;3,9;0,508;50,8
+aBS - District 4 (Dender, Moervaart);Spiraea alba;3026585;21;0;0;0;0;0
+aBS - District 4 (Dender, Moervaart);Spiraea douglasii;3027159;265;5;0,0188679245283019;1,9;0,02;2
+aBS - District 4 (Dender, Moervaart);Spiraea salicifolia;3026454;9;0;0;0;0;0
+aBS - District 4 (Dender, Moervaart);Spiraea tomentosa;3026819;21;0;0;0;0;0
+aBS - District 4 (Dender, Moervaart);Spiraea billardii;7889822;23;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Acer negundo;3189866;555;14;0,0252252252252252;2,5;0,0843373493975904;8,43
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Ailanthus altissima;3190653;633;21;0,033175355450237;3,3;0,126506024096386;12,65
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Aponogeton distachyos;5328593;27;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Arundo donax;2703041;5;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Asclepias syriaca;3170247;30;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Azolla filiculoides;2650107;264;6;0,0227272727272727;2,3;0,036144578313253;3,61
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Baccharis halimifolia;3129663;130;6;0,0461538461538462;4,6;0,036144578313253;3,61
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Cabomba caroliniana;2882443;11;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Cotoneaster horizontalis;3025617;437;11;0,0251716247139588;2,5;0,0662650602409639;6,63
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Elodea densa;5329263;16;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Pontederia crassipes;2765942;18;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Elaeagnus angustifolia;3039269;179;2;0,0111731843575419;1,1;0,0120481927710843;1,2
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Elodea canadensis;2865448;64;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Elodea nuttallii;5329212;591;4;0,00676818950930626;0,7;0,0240963855421687;2,41
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Fallopia baldschuanica;5334351;356;1;0,00280898876404494;0,3;0,00602409638554217;0,6
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Fraxinus pennsylvanica;3172348;46;2;0,0434782608695652;4,3;0,0120481927710843;1,2
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Helianthus tuberosus;3119175;300;7;0,0233333333333333;2,3;0,0421686746987952;4,22
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Helianthus laetiflorus;3119181;44;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Heracleum mantegazzianum;3034825;2812;48;0,0170697012802276;1,7;0,289156626506024;28,92
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Hydrocotyle ranunculoides;7978544;537;10;0,0186219739292365;1,9;0,0602409638554217;6,02
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Impatiens capensis;2891774;56;7;0,125;12,5;0,0421686746987952;4,22
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Impatiens glandulifera;2891770;3707;94;0,0253574318856218;2,5;0,566265060240964;56,63
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Koenigia polystachya;8848208;42;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Laburnum anagyroides;5356345;198;2;0,0101010101010101;1;0,0120481927710843;1,2
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Lagarosiphon major;2865565;34;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Lemna minuta;2867614;883;13;0,014722536806342;1,5;0,0783132530120482;7,83
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Lemna turionifera;2867631;103;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Hydrocharis laevigata;11055820;2;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Ludwigia grandiflora;5421039;476;8;0,0168067226890756;1,7;0,0481927710843374;4,82
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Ludwigia peploides;5420991;18;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Mahonia aquifolium;3033865;1917;37;0,019300991131977;1,9;0,22289156626506;22,29
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Myriophyllum aquaticum;5361785;479;5;0,0104384133611691;1;0,0301204819277108;3,01
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Myriophyllum heterophyllum;5361762;67;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Myriophyllum rubricaule;11742641;16;2;0,125;12,5;0,0120481927710843;1,2
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Parthenocissus inserta;3039203;423;3;0,00709219858156028;0,7;0,0180722891566265;1,81
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Parthenocissus quinquefolia;3039194;156;2;0,0128205128205128;1,3;0,0120481927710843;1,2
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Parthenocissus tricuspidata;3039209;304;3;0,00986842105263158;1;0,0180722891566265;1,81
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Pistia stratiotes;2870583;43;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Prunus laurocerasus;3021496;2255;33;0,0146341463414634;1,5;0,198795180722892;19,88
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Prunus serotina;3021850;6032;78;0,0129310344827586;1,3;0,469879518072289;46,99
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Reynoutria japonica;2889173;5136;127;0,0247274143302181;2,5;0,765060240963855;76,51
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Reynoutria sachalinensis;2889088;129;5;0,0387596899224806;3,9;0,0301204819277108;3,01
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Reynoutria bohemica;4038485;140;1;0,00714285714285714;0,7;0,00602409638554217;0,6
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Rhus typhina;3190538;742;11;0,0148247978436658;1,5;0,0662650602409639;6,63
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Robinia pseudoacacia;5352251;4017;81;0,0201643017176998;2;0,487951807228916;48,8
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Rosa rugosa;3003979;1761;41;0,02328222600795;2,3;0,246987951807229;24,7
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Rubus armeniacus;2996525;227;10;0,0440528634361234;4,4;0,0602409638554217;6,02
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Rudbeckia laciniata;3114229;72;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Solidago canadensis;5389029;948;15;0,0158227848101266;1,6;0,0903614457831325;9,04
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Solidago gigantea;5389017;3240;70;0,0216049382716049;2,2;0,421686746987952;42,17
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Spiraea alba;3026585;21;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Spiraea douglasii;3027159;265;3;0,0113207547169811;1,1;0,0180722891566265;1,81
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Spiraea salicifolia;3026454;9;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Spiraea tomentosa;3026819;21;0;0;0;0;0
+aZS - District 5 (Zeekanaal Brussel-Schelde, Kanaal naar Charleroi, Boven-Zenne);Spiraea billardii;7889822;23;0;0;0;0;0
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Acer negundo;3189866;555;26;0,0468468468468468;4,7;0,111111111111111;11,11
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Ailanthus altissima;3190653;633;42;0,0663507109004739;6,6;0,179487179487179;17,95
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Aponogeton distachyos;5328593;27;0;0;0;0;0
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Arundo donax;2703041;5;0;0;0;0;0
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Asclepias syriaca;3170247;30;0;0;0;0;0
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Azolla filiculoides;2650107;264;18;0,0681818181818182;6,8;0,0769230769230769;7,69
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Baccharis halimifolia;3129663;130;0;0;0;0;0
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Cabomba caroliniana;2882443;11;0;0;0;0;0
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Cotoneaster horizontalis;3025617;437;6;0,0137299771167048;1,4;0,0256410256410256;2,56
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Elodea densa;5329263;16;0;0;0;0;0
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Pontederia crassipes;2765942;18;2;0,111111111111111;11,1;0,00854700854700855;0,85
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Elaeagnus angustifolia;3039269;179;37;0,206703910614525;20,7;0,158119658119658;15,81
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Elodea canadensis;2865448;64;0;0;0;0;0
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Elodea nuttallii;5329212;591;6;0,0101522842639594;1;0,0256410256410256;2,56
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Fallopia baldschuanica;5334351;356;8;0,0224719101123595;2,2;0,0341880341880342;3,42
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Fraxinus pennsylvanica;3172348;46;4;0,0869565217391304;8,7;0,0170940170940171;1,71
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Helianthus tuberosus;3119175;300;6;0,02;2;0,0256410256410256;2,56
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Helianthus laetiflorus;3119181;44;1;0,0227272727272727;2,3;0,00427350427350427;0,43
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Heracleum mantegazzianum;3034825;2812;40;0,0142247510668563;1,4;0,170940170940171;17,09
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Hydrocotyle ranunculoides;7978544;537;10;0,0186219739292365;1,9;0,0427350427350427;4,27
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Impatiens capensis;2891774;56;6;0,107142857142857;10,7;0,0256410256410256;2,56
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Impatiens glandulifera;2891770;3707;98;0,0264364715403291;2,6;0,418803418803419;41,88
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Koenigia polystachya;8848208;42;0;0;0;0;0
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Laburnum anagyroides;5356345;198;5;0,0252525252525253;2,5;0,0213675213675214;2,14
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Lagarosiphon major;2865565;34;1;0,0294117647058824;2,9;0,00427350427350427;0,43
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Lemna minuta;2867614;883;24;0,0271800679501699;2,7;0,102564102564103;10,26
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Lemna turionifera;2867631;103;2;0,0194174757281553;1,9;0,00854700854700855;0,85
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Hydrocharis laevigata;11055820;2;0;0;0;0;0
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Ludwigia grandiflora;5421039;476;0;0;0;0;0
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Ludwigia peploides;5420991;18;1;0,0555555555555556;5,6;0,00427350427350427;0,43
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Mahonia aquifolium;3033865;1917;57;0,0297339593114241;3;0,243589743589744;24,36
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Myriophyllum aquaticum;5361785;479;5;0,0104384133611691;1;0,0213675213675214;2,14
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Myriophyllum heterophyllum;5361762;67;0;0;0;0;0
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Myriophyllum rubricaule;11742641;16;0;0;0;0;0
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Parthenocissus inserta;3039203;423;6;0,0141843971631206;1,4;0,0256410256410256;2,56
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Parthenocissus quinquefolia;3039194;156;5;0,032051282051282;3,2;0,0213675213675214;2,14
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Parthenocissus tricuspidata;3039209;304;8;0,0263157894736842;2,6;0,0341880341880342;3,42
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Pistia stratiotes;2870583;43;2;0,0465116279069767;4,7;0,00854700854700855;0,85
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Prunus laurocerasus;3021496;2255;52;0,023059866962306;2,3;0,222222222222222;22,22
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Prunus serotina;3021850;6032;108;0,0179045092838196;1,8;0,461538461538462;46,15
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Reynoutria japonica;2889173;5136;147;0,0286214953271028;2,9;0,628205128205128;62,82
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Reynoutria sachalinensis;2889088;129;5;0,0387596899224806;3,9;0,0213675213675214;2,14
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Reynoutria bohemica;4038485;140;4;0,0285714285714286;2,9;0,0170940170940171;1,71
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Rhus typhina;3190538;742;24;0,032345013477089;3,2;0,102564102564103;10,26
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Robinia pseudoacacia;5352251;4017;83;0,0206621857107294;2,1;0,354700854700855;35,47
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Rosa rugosa;3003979;1761;95;0,053946621237933;5,4;0,405982905982906;40,6
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Rubus armeniacus;2996525;227;17;0,0748898678414097;7,5;0,0726495726495727;7,26
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Rudbeckia laciniata;3114229;72;2;0,0277777777777778;2,8;0,00854700854700855;0,85
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Solidago canadensis;5389029;948;23;0,0242616033755274;2,4;0,0982905982905983;9,83
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Solidago gigantea;5389017;3240;78;0,0240740740740741;2,4;0,333333333333333;33,33
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Spiraea alba;3026585;21;0;0;0;0;0
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Spiraea douglasii;3027159;265;3;0,0113207547169811;1,1;0,0128205128205128;1,28
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Spiraea salicifolia;3026454;9;0;0;0;0;0
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Spiraea tomentosa;3026819;21;0;0;0;0;0
+aZS - District 2 (Boven-Zeeschelde (oost), Beneden-Zeeschelde, Rupel);Spiraea billardii;7889822;23;0;0;0;0;0
+DS_District 3;Acer negundo;3189866;555;9;0,0162162162162162;1,6;0,0288461538461538;2,88
+DS_District 3;Ailanthus altissima;3190653;633;20;0,0315955766192733;3,2;0,0641025641025641;6,41
+DS_District 3;Aponogeton distachyos;5328593;27;0;0;0;0;0
+DS_District 3;Arundo donax;2703041;5;1;0,2;20;0,00320512820512821;0,32
+DS_District 3;Asclepias syriaca;3170247;30;0;0;0;0;0
+DS_District 3;Azolla filiculoides;2650107;264;5;0,0189393939393939;1,9;0,016025641025641;1,6
+DS_District 3;Baccharis halimifolia;3129663;130;0;0;0;0;0
+DS_District 3;Cabomba caroliniana;2882443;11;2;0,181818181818182;18,2;0,00641025641025641;0,64
+DS_District 3;Cotoneaster horizontalis;3025617;437;4;0,0091533180778032;0,9;0,0128205128205128;1,28
+DS_District 3;Elodea densa;5329263;16;5;0,3125;31,2;0,016025641025641;1,6
+DS_District 3;Pontederia crassipes;2765942;18;2;0,111111111111111;11,1;0,00641025641025641;0,64
+DS_District 3;Elaeagnus angustifolia;3039269;179;7;0,0391061452513966;3,9;0,0224358974358974;2,24
+DS_District 3;Elodea canadensis;2865448;64;4;0,0625;6,2;0,0128205128205128;1,28
+DS_District 3;Elodea nuttallii;5329212;591;33;0,0558375634517767;5,6;0,105769230769231;10,58
+DS_District 3;Fallopia baldschuanica;5334351;356;8;0,0224719101123595;2,2;0,0256410256410256;2,56
+DS_District 3;Fraxinus pennsylvanica;3172348;46;2;0,0434782608695652;4,3;0,00641025641025641;0,64
+DS_District 3;Helianthus tuberosus;3119175;300;3;0,01;1;0,00961538461538462;0,96
+DS_District 3;Helianthus laetiflorus;3119181;44;1;0,0227272727272727;2,3;0,00320512820512821;0,32
+DS_District 3;Heracleum mantegazzianum;3034825;2812;69;0,0245376955903272;2,5;0,221153846153846;22,12
+DS_District 3;Hydrocotyle ranunculoides;7978544;537;5;0,00931098696461825;0,9;0,016025641025641;1,6
+DS_District 3;Impatiens capensis;2891774;56;5;0,0892857142857143;8,9;0,016025641025641;1,6
+DS_District 3;Impatiens glandulifera;2891770;3707;105;0,0283247909360669;2,8;0,336538461538462;33,65
+DS_District 3;Koenigia polystachya;8848208;42;3;0,0714285714285714;7,1;0,00961538461538462;0,96
+DS_District 3;Laburnum anagyroides;5356345;198;10;0,0505050505050505;5,1;0,032051282051282;3,21
+DS_District 3;Lagarosiphon major;2865565;34;0;0;0;0;0
+DS_District 3;Lemna minuta;2867614;883;35;0,0396375990939977;4;0,112179487179487;11,22
+DS_District 3;Lemna turionifera;2867631;103;0;0;0;0;0
+DS_District 3;Hydrocharis laevigata;11055820;2;0;0;0;0;0
+DS_District 3;Ludwigia grandiflora;5421039;476;16;0,0336134453781513;3,4;0,0512820512820513;5,13
+DS_District 3;Ludwigia peploides;5420991;18;0;0;0;0;0
+DS_District 3;Mahonia aquifolium;3033865;1917;47;0,0245174752217006;2,5;0,150641025641026;15,06
+DS_District 3;Myriophyllum aquaticum;5361785;479;14;0,0292275574112735;2,9;0,0448717948717949;4,49
+DS_District 3;Myriophyllum heterophyllum;5361762;67;49;0,73134328358209;73,1;0,157051282051282;15,71
+DS_District 3;Myriophyllum rubricaule;11742641;16;0;0;0;0;0
+DS_District 3;Parthenocissus inserta;3039203;423;12;0,0283687943262411;2,8;0,0384615384615385;3,85
+DS_District 3;Parthenocissus quinquefolia;3039194;156;2;0,0128205128205128;1,3;0,00641025641025641;0,64
+DS_District 3;Parthenocissus tricuspidata;3039209;304;6;0,0197368421052632;2;0,0192307692307692;1,92
+DS_District 3;Pistia stratiotes;2870583;43;3;0,0697674418604651;7;0,00961538461538462;0,96
+DS_District 3;Prunus laurocerasus;3021496;2255;57;0,0252771618625277;2,5;0,182692307692308;18,27
+DS_District 3;Prunus serotina;3021850;6032;217;0,035974801061008;3,6;0,69551282051282;69,55
+DS_District 3;Reynoutria japonica;2889173;5136;170;0,0330996884735202;3,3;0,544871794871795;54,49
+DS_District 3;Reynoutria sachalinensis;2889088;129;4;0,0310077519379845;3,1;0,0128205128205128;1,28
+DS_District 3;Reynoutria bohemica;4038485;140;3;0,0214285714285714;2,1;0,00961538461538462;0,96
+DS_District 3;Rhus typhina;3190538;742;18;0,0242587601078167;2,4;0,0576923076923077;5,77
+DS_District 3;Robinia pseudoacacia;5352251;4017;107;0,0266367936270849;2,7;0,342948717948718;34,29
+DS_District 3;Rosa rugosa;3003979;1761;52;0,0295286768881317;3;0,166666666666667;16,67
+DS_District 3;Rubus armeniacus;2996525;227;4;0,0176211453744493;1,8;0,0128205128205128;1,28
+DS_District 3;Rudbeckia laciniata;3114229;72;0;0;0;0;0
+DS_District 3;Solidago canadensis;5389029;948;21;0,0221518987341772;2,2;0,0673076923076923;6,73
+DS_District 3;Solidago gigantea;5389017;3240;78;0,0240740740740741;2,4;0,25;25
+DS_District 3;Spiraea alba;3026585;21;2;0,0952380952380952;9,5;0,00641025641025641;0,64
+DS_District 3;Spiraea douglasii;3027159;265;14;0,0528301886792453;5,3;0,0448717948717949;4,49
+DS_District 3;Spiraea salicifolia;3026454;9;2;0,222222222222222;22,2;0,00641025641025641;0,64
+DS_District 3;Spiraea tomentosa;3026819;21;1;0,0476190476190476;4,8;0,00320512820512821;0,32
+DS_District 3;Spiraea billardii;7889822;23;0;0;0;0;0
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Acer negundo;3189866;555;22;0,0396396396396396;4;0,110552763819095;11,06
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Ailanthus altissima;3190653;633;24;0,037914691943128;3,8;0,120603015075377;12,06
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Aponogeton distachyos;5328593;27;1;0,037037037037037;3,7;0,0050251256281407;0,5
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Arundo donax;2703041;5;0;0;0;0;0
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Asclepias syriaca;3170247;30;2;0,0666666666666667;6,7;0,0100502512562814;1,01
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Azolla filiculoides;2650107;264;2;0,00757575757575758;0,8;0,0100502512562814;1,01
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Baccharis halimifolia;3129663;130;0;0;0;0;0
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Cabomba caroliniana;2882443;11;0;0;0;0;0
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Cotoneaster horizontalis;3025617;437;8;0,0183066361556064;1,8;0,0402010050251256;4,02
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Elodea densa;5329263;16;0;0;0;0;0
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Pontederia crassipes;2765942;18;0;0;0;0;0
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Elaeagnus angustifolia;3039269;179;0;0;0;0;0
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Elodea canadensis;2865448;64;2;0,03125;3,1;0,0100502512562814;1,01
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Elodea nuttallii;5329212;591;19;0,0321489001692047;3,2;0,0954773869346734;9,55
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Fallopia baldschuanica;5334351;356;13;0,0365168539325843;3,7;0,0653266331658292;6,53
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Fraxinus pennsylvanica;3172348;46;0;0;0;0;0
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Helianthus tuberosus;3119175;300;9;0,03;3;0,0452261306532663;4,52
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Helianthus laetiflorus;3119181;44;0;0;0;0;0
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Heracleum mantegazzianum;3034825;2812;64;0,0227596017069701;2,3;0,321608040201005;32,16
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Hydrocotyle ranunculoides;7978544;537;24;0,0446927374301676;4,5;0,120603015075377;12,06
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Impatiens capensis;2891774;56;3;0,0535714285714286;5,4;0,0150753768844221;1,51
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Impatiens glandulifera;2891770;3707;117;0,0315619099001888;3,2;0,587939698492462;58,79
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Koenigia polystachya;8848208;42;1;0,0238095238095238;2,4;0,0050251256281407;0,5
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Laburnum anagyroides;5356345;198;7;0,0353535353535354;3,5;0,0351758793969849;3,52
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Lagarosiphon major;2865565;34;2;0,0588235294117647;5,9;0,0100502512562814;1,01
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Lemna minuta;2867614;883;13;0,014722536806342;1,5;0,0653266331658292;6,53
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Lemna turionifera;2867631;103;0;0;0;0;0
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Hydrocharis laevigata;11055820;2;0;0;0;0;0
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Ludwigia grandiflora;5421039;476;34;0,0714285714285714;7,1;0,170854271356784;17,09
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Ludwigia peploides;5420991;18;0;0;0;0;0
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Mahonia aquifolium;3033865;1917;79;0,0412102243088159;4,1;0,396984924623116;39,7
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Myriophyllum aquaticum;5361785;479;38;0,0793319415448852;7,9;0,190954773869347;19,1
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Myriophyllum heterophyllum;5361762;67;0;0;0;0;0
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Myriophyllum rubricaule;11742641;16;1;0,0625;6,2;0,0050251256281407;0,5
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Parthenocissus inserta;3039203;423;16;0,0378250591016548;3,8;0,0804020100502513;8,04
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Parthenocissus quinquefolia;3039194;156;5;0,032051282051282;3,2;0,0251256281407035;2,51
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Parthenocissus tricuspidata;3039209;304;14;0,0460526315789474;4,6;0,0703517587939698;7,04
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Pistia stratiotes;2870583;43;0;0;0;0;0
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Prunus laurocerasus;3021496;2255;73;0,0323725055432372;3,2;0,366834170854271;36,68
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Prunus serotina;3021850;6032;178;0,0295092838196286;3;0,894472361809045;89,45
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Reynoutria japonica;2889173;5136;145;0,0282320872274143;2,8;0,728643216080402;72,86
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Reynoutria sachalinensis;2889088;129;2;0,0155038759689922;1,6;0,0100502512562814;1,01
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Reynoutria bohemica;4038485;140;0;0;0;0;0
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Rhus typhina;3190538;742;39;0,0525606469002695;5,3;0,195979899497487;19,6
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Robinia pseudoacacia;5352251;4017;129;0,0321135175504108;3,2;0,648241206030151;64,82
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Rosa rugosa;3003979;1761;50;0,0283929585462805;2,8;0,251256281407035;25,13
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Rubus armeniacus;2996525;227;4;0,0176211453744493;1,8;0,0201005025125628;2,01
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Rudbeckia laciniata;3114229;72;0;0;0;0;0
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Solidago canadensis;5389029;948;40;0,0421940928270042;4,2;0,201005025125628;20,1
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Solidago gigantea;5389017;3240;100;0,0308641975308642;3,1;0,50251256281407;50,25
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Spiraea alba;3026585;21;0;0;0;0;0
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Spiraea douglasii;3027159;265;9;0,0339622641509434;3,4;0,0452261306532663;4,52
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Spiraea salicifolia;3026454;9;0;0;0;0;0
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Spiraea tomentosa;3026819;21;0;0;0;0;0
+aZS - District 4 (Dijle, Demer, Beneden-Zenne);Spiraea billardii;7889822;23;1;0,0434782608695652;4,3;0,0050251256281407;0,5
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Acer negundo;3189866;555;15;0,027027027027027;2,7;0,112781954887218;11,28
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Ailanthus altissima;3190653;633;25;0,0394944707740916;3,9;0,18796992481203;18,8
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Aponogeton distachyos;5328593;27;0;0;0;0;0
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Arundo donax;2703041;5;0;0;0;0;0
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Asclepias syriaca;3170247;30;1;0,0333333333333333;3,3;0,0075187969924812;0,75
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Azolla filiculoides;2650107;264;3;0,0113636363636364;1,1;0,0225563909774436;2,26
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Baccharis halimifolia;3129663;130;0;0;0;0;0
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Cabomba caroliniana;2882443;11;0;0;0;0;0
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Cotoneaster horizontalis;3025617;437;6;0,0137299771167048;1,4;0,0451127819548872;4,51
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Elodea densa;5329263;16;0;0;0;0;0
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Pontederia crassipes;2765942;18;0;0;0;0;0
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Elaeagnus angustifolia;3039269;179;1;0,00558659217877095;0,6;0,0075187969924812;0,75
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Elodea canadensis;2865448;64;0;0;0;0;0
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Elodea nuttallii;5329212;591;11;0,0186125211505922;1,9;0,0827067669172932;8,27
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Fallopia baldschuanica;5334351;356;18;0,050561797752809;5,1;0,135338345864662;13,53
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Fraxinus pennsylvanica;3172348;46;0;0;0;0;0
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Helianthus tuberosus;3119175;300;5;0,0166666666666667;1,7;0,037593984962406;3,76
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Helianthus laetiflorus;3119181;44;0;0;0;0;0
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Heracleum mantegazzianum;3034825;2812;54;0,019203413940256;1,9;0,406015037593985;40,6
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Hydrocotyle ranunculoides;7978544;537;12;0,0223463687150838;2,2;0,0902255639097744;9,02
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Impatiens capensis;2891774;56;19;0,339285714285714;33,9;0,142857142857143;14,29
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Impatiens glandulifera;2891770;3707;64;0,017264634475317;1,7;0,481203007518797;48,12
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Koenigia polystachya;8848208;42;1;0,0238095238095238;2,4;0,0075187969924812;0,75
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Laburnum anagyroides;5356345;198;3;0,0151515151515152;1,5;0,0225563909774436;2,26
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Lagarosiphon major;2865565;34;0;0;0;0;0
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Lemna minuta;2867614;883;11;0,0124575311438279;1,2;0,0827067669172932;8,27
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Lemna turionifera;2867631;103;0;0;0;0;0
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Hydrocharis laevigata;11055820;2;0;0;0;0;0
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Ludwigia grandiflora;5421039;476;26;0,0546218487394958;5,5;0,195488721804511;19,55
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Ludwigia peploides;5420991;18;0;0;0;0;0
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Mahonia aquifolium;3033865;1917;46;0,0239958268127282;2,4;0,345864661654135;34,59
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Myriophyllum aquaticum;5361785;479;6;0,0125260960334029;1,3;0,0451127819548872;4,51
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Myriophyllum heterophyllum;5361762;67;1;0,0149253731343284;1,5;0,0075187969924812;0,75
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Myriophyllum rubricaule;11742641;16;0;0;0;0;0
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Parthenocissus inserta;3039203;423;14;0,033096926713948;3,3;0,105263157894737;10,53
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Parthenocissus quinquefolia;3039194;156;3;0,0192307692307692;1,9;0,0225563909774436;2,26
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Parthenocissus tricuspidata;3039209;304;10;0,0328947368421053;3,3;0,075187969924812;7,52
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Pistia stratiotes;2870583;43;0;0;0;0;0
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Prunus laurocerasus;3021496;2255;35;0,0155210643015521;1,6;0,263157894736842;26,32
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Prunus serotina;3021850;6032;96;0,0159151193633952;1,6;0,721804511278195;72,18
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Reynoutria japonica;2889173;5136;99;0,0192757009345794;1,9;0,744360902255639;74,44
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Reynoutria sachalinensis;2889088;129;2;0,0155038759689922;1,6;0,0150375939849624;1,5
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Reynoutria bohemica;4038485;140;2;0,0142857142857143;1,4;0,0150375939849624;1,5
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Rhus typhina;3190538;742;21;0,0283018867924528;2,8;0,157894736842105;15,79
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Robinia pseudoacacia;5352251;4017;66;0,0164301717699776;1,6;0,496240601503759;49,62
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Rosa rugosa;3003979;1761;42;0,0238500851788756;2,4;0,315789473684211;31,58
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Rubus armeniacus;2996525;227;4;0,0176211453744493;1,8;0,0300751879699248;3,01
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Rudbeckia laciniata;3114229;72;2;0,0277777777777778;2,8;0,0150375939849624;1,5
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Solidago canadensis;5389029;948;25;0,0263713080168776;2,6;0,18796992481203;18,8
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Solidago gigantea;5389017;3240;64;0,0197530864197531;2;0,481203007518797;48,12
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Spiraea alba;3026585;21;1;0,0476190476190476;4,8;0,0075187969924812;0,75
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Spiraea douglasii;3027159;265;6;0,0226415094339623;2,3;0,0451127819548872;4,51
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Spiraea salicifolia;3026454;9;0;0;0;0;0
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Spiraea tomentosa;3026819;21;0;0;0;0;0
+aZS - District 6 (Kanaal Leuven-Dijle, Netekanaal);Spiraea billardii;7889822;23;0;0;0;0;0
+aZS - District 3 (Netes);Acer negundo;3189866;555;9;0,0162162162162162;1,6;0,0416666666666667;4,17
+aZS - District 3 (Netes);Ailanthus altissima;3190653;633;10;0,0157977883096366;1,6;0,0462962962962963;4,63
+aZS - District 3 (Netes);Aponogeton distachyos;5328593;27;0;0;0;0;0
+aZS - District 3 (Netes);Arundo donax;2703041;5;0;0;0;0;0
+aZS - District 3 (Netes);Asclepias syriaca;3170247;30;1;0,0333333333333333;3,3;0,00462962962962963;0,46
+aZS - District 3 (Netes);Azolla filiculoides;2650107;264;1;0,00378787878787879;0,4;0,00462962962962963;0,46
+aZS - District 3 (Netes);Baccharis halimifolia;3129663;130;0;0;0;0;0
+aZS - District 3 (Netes);Cabomba caroliniana;2882443;11;0;0;0;0;0
+aZS - District 3 (Netes);Cotoneaster horizontalis;3025617;437;1;0,0022883295194508;0,2;0,00462962962962963;0,46
+aZS - District 3 (Netes);Elodea densa;5329263;16;0;0;0;0;0
+aZS - District 3 (Netes);Pontederia crassipes;2765942;18;0;0;0;0;0
+aZS - District 3 (Netes);Elaeagnus angustifolia;3039269;179;1;0,00558659217877095;0,6;0,00462962962962963;0,46
+aZS - District 3 (Netes);Elodea canadensis;2865448;64;3;0,046875;4,7;0,0138888888888889;1,39
+aZS - District 3 (Netes);Elodea nuttallii;5329212;591;12;0,0203045685279188;2;0,0555555555555556;5,56
+aZS - District 3 (Netes);Fallopia baldschuanica;5334351;356;5;0,0140449438202247;1,4;0,0231481481481481;2,31
+aZS - District 3 (Netes);Fraxinus pennsylvanica;3172348;46;1;0,0217391304347826;2,2;0,00462962962962963;0,46
+aZS - District 3 (Netes);Helianthus tuberosus;3119175;300;5;0,0166666666666667;1,7;0,0231481481481481;2,31
+aZS - District 3 (Netes);Helianthus laetiflorus;3119181;44;0;0;0;0;0
+aZS - District 3 (Netes);Heracleum mantegazzianum;3034825;2812;58;0,0206258890469417;2,1;0,268518518518519;26,85
+aZS - District 3 (Netes);Hydrocotyle ranunculoides;7978544;537;14;0,0260707635009311;2,6;0,0648148148148148;6,48
+aZS - District 3 (Netes);Impatiens capensis;2891774;56;21;0,375;37,5;0,0972222222222222;9,72
+aZS - District 3 (Netes);Impatiens glandulifera;2891770;3707;126;0,0339897491232803;3,4;0,583333333333333;58,33
+aZS - District 3 (Netes);Koenigia polystachya;8848208;42;1;0,0238095238095238;2,4;0,00462962962962963;0,46
+aZS - District 3 (Netes);Laburnum anagyroides;5356345;198;1;0,00505050505050505;0,5;0,00462962962962963;0,46
+aZS - District 3 (Netes);Lagarosiphon major;2865565;34;0;0;0;0;0
+aZS - District 3 (Netes);Lemna minuta;2867614;883;17;0,0192525481313703;1,9;0,0787037037037037;7,87
+aZS - District 3 (Netes);Lemna turionifera;2867631;103;0;0;0;0;0
+aZS - District 3 (Netes);Hydrocharis laevigata;11055820;2;0;0;0;0;0
+aZS - District 3 (Netes);Ludwigia grandiflora;5421039;476;52;0,109243697478992;10,9;0,240740740740741;24,07
+aZS - District 3 (Netes);Ludwigia peploides;5420991;18;2;0,111111111111111;11,1;0,00925925925925926;0,93
+aZS - District 3 (Netes);Mahonia aquifolium;3033865;1917;44;0,0229525299947835;2,3;0,203703703703704;20,37
+aZS - District 3 (Netes);Myriophyllum aquaticum;5361785;479;31;0,0647181628392484;6,5;0,143518518518519;14,35
+aZS - District 3 (Netes);Myriophyllum heterophyllum;5361762;67;0;0;0;0;0
+aZS - District 3 (Netes);Myriophyllum rubricaule;11742641;16;0;0;0;0;0
+aZS - District 3 (Netes);Parthenocissus inserta;3039203;423;5;0,0118203309692671;1,2;0,0231481481481481;2,31
+aZS - District 3 (Netes);Parthenocissus quinquefolia;3039194;156;4;0,0256410256410256;2,6;0,0185185185185185;1,85
+aZS - District 3 (Netes);Parthenocissus tricuspidata;3039209;304;5;0,0164473684210526;1,6;0,0231481481481481;2,31
+aZS - District 3 (Netes);Pistia stratiotes;2870583;43;0;0;0;0;0
+aZS - District 3 (Netes);Prunus laurocerasus;3021496;2255;52;0,023059866962306;2,3;0,240740740740741;24,07
+aZS - District 3 (Netes);Prunus serotina;3021850;6032;154;0,0255305039787798;2,6;0,712962962962963;71,3
+aZS - District 3 (Netes);Reynoutria japonica;2889173;5136;141;0,0274532710280374;2,7;0,652777777777778;65,28
+aZS - District 3 (Netes);Reynoutria sachalinensis;2889088;129;4;0,0310077519379845;3,1;0,0185185185185185;1,85
+aZS - District 3 (Netes);Reynoutria bohemica;4038485;140;1;0,00714285714285714;0,7;0,00462962962962963;0,46
+aZS - District 3 (Netes);Rhus typhina;3190538;742;15;0,0202156334231806;2;0,0694444444444444;6,94
+aZS - District 3 (Netes);Robinia pseudoacacia;5352251;4017;94;0,0234005476723923;2,3;0,435185185185185;43,52
+aZS - District 3 (Netes);Rosa rugosa;3003979;1761;47;0,0266893810335037;2,7;0,217592592592593;21,76
+aZS - District 3 (Netes);Rubus armeniacus;2996525;227;3;0,013215859030837;1,3;0,0138888888888889;1,39
+aZS - District 3 (Netes);Rudbeckia laciniata;3114229;72;27;0,375;37,5;0,125;12,5
+aZS - District 3 (Netes);Solidago canadensis;5389029;948;27;0,0284810126582278;2,8;0,125;12,5
+aZS - District 3 (Netes);Solidago gigantea;5389017;3240;88;0,0271604938271605;2,7;0,407407407407407;40,74
+aZS - District 3 (Netes);Spiraea alba;3026585;21;1;0,0476190476190476;4,8;0,00462962962962963;0,46
+aZS - District 3 (Netes);Spiraea douglasii;3027159;265;6;0,0226415094339623;2,3;0,0277777777777778;2,78
+aZS - District 3 (Netes);Spiraea salicifolia;3026454;9;0;0;0;0;0
+aZS - District 3 (Netes);Spiraea tomentosa;3026819;21;0;0;0;0;0
+aZS - District 3 (Netes);Spiraea billardii;7889822;23;0;0;0;0;0
+DS_District 4;Acer negundo;3189866;555;10;0,018018018018018;1,8;0,0383141762452107;3,83
+DS_District 4;Ailanthus altissima;3190653;633;6;0,00947867298578199;0,9;0,0229885057471264;2,3
+DS_District 4;Aponogeton distachyos;5328593;27;0;0;0;0;0
+DS_District 4;Arundo donax;2703041;5;0;0;0;0;0
+DS_District 4;Asclepias syriaca;3170247;30;1;0,0333333333333333;3,3;0,00383141762452107;0,38
+DS_District 4;Azolla filiculoides;2650107;264;21;0,0795454545454545;8;0,0804597701149425;8,05
+DS_District 4;Baccharis halimifolia;3129663;130;0;0;0;0;0
+DS_District 4;Cabomba caroliniana;2882443;11;0;0;0;0;0
+DS_District 4;Cotoneaster horizontalis;3025617;437;0;0;0;0;0
+DS_District 4;Elodea densa;5329263;16;1;0,0625;6,2;0,00383141762452107;0,38
+DS_District 4;Pontederia crassipes;2765942;18;4;0,222222222222222;22,2;0,0153256704980843;1,53
+DS_District 4;Elaeagnus angustifolia;3039269;179;1;0,00558659217877095;0,6;0,00383141762452107;0,38
+DS_District 4;Elodea canadensis;2865448;64;5;0,078125;7,8;0,0191570881226054;1,92
+DS_District 4;Elodea nuttallii;5329212;591;24;0,0406091370558376;4,1;0,0919540229885057;9,2
+DS_District 4;Fallopia baldschuanica;5334351;356;4;0,0112359550561798;1,1;0,0153256704980843;1,53
+DS_District 4;Fraxinus pennsylvanica;3172348;46;0;0;0;0;0
+DS_District 4;Helianthus tuberosus;3119175;300;2;0,00666666666666667;0,7;0,00766283524904215;0,77
+DS_District 4;Helianthus laetiflorus;3119181;44;1;0,0227272727272727;2,3;0,00383141762452107;0,38
+DS_District 4;Heracleum mantegazzianum;3034825;2812;31;0,0110241820768137;1,1;0,118773946360153;11,88
+DS_District 4;Hydrocotyle ranunculoides;7978544;537;5;0,00931098696461825;0,9;0,0191570881226054;1,92
+DS_District 4;Impatiens capensis;2891774;56;0;0;0;0;0
+DS_District 4;Impatiens glandulifera;2891770;3707;59;0,0159158349069328;1,6;0,226053639846743;22,61
+DS_District 4;Koenigia polystachya;8848208;42;1;0,0238095238095238;2,4;0,00383141762452107;0,38
+DS_District 4;Laburnum anagyroides;5356345;198;2;0,0101010101010101;1;0,00766283524904215;0,77
+DS_District 4;Lagarosiphon major;2865565;34;0;0;0;0;0
+DS_District 4;Lemna minuta;2867614;883;33;0,0373725934314836;3,7;0,126436781609195;12,64
+DS_District 4;Lemna turionifera;2867631;103;0;0;0;0;0
+DS_District 4;Hydrocharis laevigata;11055820;2;0;0;0;0;0
+DS_District 4;Ludwigia grandiflora;5421039;476;26;0,0546218487394958;5,5;0,0996168582375479;9,96
+DS_District 4;Ludwigia peploides;5420991;18;0;0;0;0;0
+DS_District 4;Mahonia aquifolium;3033865;1917;27;0,0140845070422535;1,4;0,103448275862069;10,34
+DS_District 4;Myriophyllum aquaticum;5361785;479;16;0,0334029227557411;3,3;0,0613026819923372;6,13
+DS_District 4;Myriophyllum heterophyllum;5361762;67;4;0,0597014925373134;6;0,0153256704980843;1,53
+DS_District 4;Myriophyllum rubricaule;11742641;16;0;0;0;0;0
+DS_District 4;Parthenocissus inserta;3039203;423;9;0,0212765957446809;2,1;0,0344827586206897;3,45
+DS_District 4;Parthenocissus quinquefolia;3039194;156;6;0,0384615384615385;3,8;0,0229885057471264;2,3
+DS_District 4;Parthenocissus tricuspidata;3039209;304;7;0,0230263157894737;2,3;0,0268199233716475;2,68
+DS_District 4;Pistia stratiotes;2870583;43;9;0,209302325581395;20,9;0,0344827586206897;3,45
+DS_District 4;Prunus laurocerasus;3021496;2255;24;0,0106430155210643;1,1;0,0919540229885057;9,2
+DS_District 4;Prunus serotina;3021850;6032;186;0,0308355437665782;3,1;0,71264367816092;71,26
+DS_District 4;Reynoutria japonica;2889173;5136;132;0,0257009345794393;2,6;0,505747126436782;50,57
+DS_District 4;Reynoutria sachalinensis;2889088;129;4;0,0310077519379845;3,1;0,0153256704980843;1,53
+DS_District 4;Reynoutria bohemica;4038485;140;2;0,0142857142857143;1,4;0,00766283524904215;0,77
+DS_District 4;Rhus typhina;3190538;742;26;0,0350404312668464;3,5;0,0996168582375479;9,96
+DS_District 4;Robinia pseudoacacia;5352251;4017;114;0,0283793876026886;2,8;0,436781609195402;43,68
+DS_District 4;Rosa rugosa;3003979;1761;39;0,0221465076660988;2,2;0,149425287356322;14,94
+DS_District 4;Rubus armeniacus;2996525;227;4;0,0176211453744493;1,8;0,0153256704980843;1,53
+DS_District 4;Rudbeckia laciniata;3114229;72;0;0;0;0;0
+DS_District 4;Solidago canadensis;5389029;948;20;0,0210970464135021;2,1;0,0766283524904215;7,66
+DS_District 4;Solidago gigantea;5389017;3240;50;0,0154320987654321;1,5;0,191570881226054;19,16
+DS_District 4;Spiraea alba;3026585;21;0;0;0;0;0
+DS_District 4;Spiraea douglasii;3027159;265;9;0,0339622641509434;3,4;0,0344827586206897;3,45
+DS_District 4;Spiraea salicifolia;3026454;9;0;0;0;0;0
+DS_District 4;Spiraea tomentosa;3026819;21;0;0;0;0;0
+DS_District 4;Spiraea billardii;7889822;23;0;0;0;0;0
+DS_District 2;Acer negundo;3189866;555;47;0,0846846846846847;8,5;0,135057471264368;13,51
+DS_District 2;Ailanthus altissima;3190653;633;15;0,023696682464455;2,4;0,0431034482758621;4,31
+DS_District 2;Aponogeton distachyos;5328593;27;0;0;0;0;0
+DS_District 2;Arundo donax;2703041;5;0;0;0;0;0
+DS_District 2;Asclepias syriaca;3170247;30;1;0,0333333333333333;3,3;0,0028735632183908;0,29
+DS_District 2;Azolla filiculoides;2650107;264;1;0,00378787878787879;0,4;0,0028735632183908;0,29
+DS_District 2;Baccharis halimifolia;3129663;130;2;0,0153846153846154;1,5;0,00574712643678161;0,57
+DS_District 2;Cabomba caroliniana;2882443;11;5;0,454545454545455;45,5;0,014367816091954;1,44
+DS_District 2;Cotoneaster horizontalis;3025617;437;10;0,022883295194508;2,3;0,028735632183908;2,87
+DS_District 2;Elodea densa;5329263;16;3;0,1875;18,8;0,00862068965517241;0,86
+DS_District 2;Pontederia crassipes;2765942;18;2;0,111111111111111;11,1;0,00574712643678161;0,57
+DS_District 2;Elaeagnus angustifolia;3039269;179;1;0,00558659217877095;0,6;0,0028735632183908;0,29
+DS_District 2;Elodea canadensis;2865448;64;8;0,125;12,5;0,0229885057471264;2,3
+DS_District 2;Elodea nuttallii;5329212;591;73;0,123519458544839;12,4;0,209770114942529;20,98
+DS_District 2;Fallopia baldschuanica;5334351;356;12;0,0337078651685393;3,4;0,0344827586206897;3,45
+DS_District 2;Fraxinus pennsylvanica;3172348;46;1;0,0217391304347826;2,2;0,0028735632183908;0,29
+DS_District 2;Helianthus tuberosus;3119175;300;71;0,236666666666667;23,7;0,204022988505747;20,4
+DS_District 2;Helianthus laetiflorus;3119181;44;3;0,0681818181818182;6,8;0,00862068965517241;0,86
+DS_District 2;Heracleum mantegazzianum;3034825;2812;62;0,0220483641536273;2,2;0,17816091954023;17,82
+DS_District 2;Hydrocotyle ranunculoides;7978544;537;23;0,042830540037244;4,3;0,0660919540229885;6,61
+DS_District 2;Impatiens capensis;2891774;56;0;0;0;0;0
+DS_District 2;Impatiens glandulifera;2891770;3707;115;0,0310223900728352;3,1;0,330459770114943;33,05
+DS_District 2;Koenigia polystachya;8848208;42;5;0,119047619047619;11,9;0,014367816091954;1,44
+DS_District 2;Laburnum anagyroides;5356345;198;1;0,00505050505050505;0,5;0,0028735632183908;0,29
+DS_District 2;Lagarosiphon major;2865565;34;0;0;0;0;0
+DS_District 2;Lemna minuta;2867614;883;32;0,0362400906002265;3,6;0,0919540229885057;9,2
+DS_District 2;Lemna turionifera;2867631;103;7;0,0679611650485437;6,8;0,0201149425287356;2,01
+DS_District 2;Hydrocharis laevigata;11055820;2;0;0;0;0;0
+DS_District 2;Ludwigia grandiflora;5421039;476;13;0,0273109243697479;2,7;0,0373563218390805;3,74
+DS_District 2;Ludwigia peploides;5420991;18;0;0;0;0;0
+DS_District 2;Mahonia aquifolium;3033865;1917;53;0,0276473656755347;2,8;0,152298850574713;15,23
+DS_District 2;Myriophyllum aquaticum;5361785;479;4;0,00835073068893528;0,8;0,0114942528735632;1,15
+DS_District 2;Myriophyllum heterophyllum;5361762;67;1;0,0149253731343284;1,5;0,0028735632183908;0,29
+DS_District 2;Myriophyllum rubricaule;11742641;16;1;0,0625;6,2;0,0028735632183908;0,29
+DS_District 2;Parthenocissus inserta;3039203;423;17;0,0401891252955083;4;0,0488505747126437;4,89
+DS_District 2;Parthenocissus quinquefolia;3039194;156;8;0,0512820512820513;5,1;0,0229885057471264;2,3
+DS_District 2;Parthenocissus tricuspidata;3039209;304;5;0,0164473684210526;1,6;0,014367816091954;1,44
+DS_District 2;Pistia stratiotes;2870583;43;2;0,0465116279069767;4,7;0,00574712643678161;0,57
+DS_District 2;Prunus laurocerasus;3021496;2255;51;0,0226164079822616;2,3;0,146551724137931;14,66
+DS_District 2;Prunus serotina;3021850;6032;213;0,0353116710875332;3,5;0,612068965517241;61,21
+DS_District 2;Reynoutria japonica;2889173;5136;156;0,0303738317757009;3;0,448275862068966;44,83
+DS_District 2;Reynoutria sachalinensis;2889088;129;11;0,0852713178294574;8,5;0,0316091954022989;3,16
+DS_District 2;Reynoutria bohemica;4038485;140;7;0,05;5;0,0201149425287356;2,01
+DS_District 2;Rhus typhina;3190538;742;24;0,032345013477089;3,2;0,0689655172413793;6,9
+DS_District 2;Robinia pseudoacacia;5352251;4017;132;0,0328603435399552;3,3;0,379310344827586;37,93
+DS_District 2;Rosa rugosa;3003979;1761;50;0,0283929585462805;2,8;0,14367816091954;14,37
+DS_District 2;Rubus armeniacus;2996525;227;3;0,013215859030837;1,3;0,00862068965517241;0,86
+DS_District 2;Rudbeckia laciniata;3114229;72;2;0,0277777777777778;2,8;0,00574712643678161;0,57
+DS_District 2;Solidago canadensis;5389029;948;33;0,0348101265822785;3,5;0,0948275862068965;9,48
+DS_District 2;Solidago gigantea;5389017;3240;103;0,0317901234567901;3,2;0,295977011494253;29,6
+DS_District 2;Spiraea alba;3026585;21;1;0,0476190476190476;4,8;0,0028735632183908;0,29
+DS_District 2;Spiraea douglasii;3027159;265;12;0,0452830188679245;4,5;0,0344827586206897;3,45
+DS_District 2;Spiraea salicifolia;3026454;9;1;0,111111111111111;11,1;0,0028735632183908;0,29
+DS_District 2;Spiraea tomentosa;3026819;21;0;0;0;0;0
+DS_District 2;Spiraea billardii;7889822;23;0;0;0;0;0
+DS_District 1;Acer negundo;3189866;555;18;0,0324324324324324;3,2;0,125;12,5
+DS_District 1;Ailanthus altissima;3190653;633;14;0,0221169036334913;2,2;0,0972222222222222;9,72
+DS_District 1;Aponogeton distachyos;5328593;27;0;0;0;0;0
+DS_District 1;Arundo donax;2703041;5;0;0;0;0;0
+DS_District 1;Asclepias syriaca;3170247;30;0;0;0;0;0
+DS_District 1;Azolla filiculoides;2650107;264;3;0,0113636363636364;1,1;0,0208333333333333;2,08
+DS_District 1;Baccharis halimifolia;3129663;130;0;0;0;0;0
+DS_District 1;Cabomba caroliniana;2882443;11;4;0,363636363636364;36,4;0,0277777777777778;2,78
+DS_District 1;Cotoneaster horizontalis;3025617;437;11;0,0251716247139588;2,5;0,0763888888888889;7,64
+DS_District 1;Elodea densa;5329263;16;1;0,0625;6,2;0,00694444444444444;0,69
+DS_District 1;Pontederia crassipes;2765942;18;0;0;0;0;0
+DS_District 1;Elaeagnus angustifolia;3039269;179;1;0,00558659217877095;0,6;0,00694444444444444;0,69
+DS_District 1;Elodea canadensis;2865448;64;2;0,03125;3,1;0,0138888888888889;1,39
+DS_District 1;Elodea nuttallii;5329212;591;21;0,0355329949238579;3,6;0,145833333333333;14,58
+DS_District 1;Fallopia baldschuanica;5334351;356;4;0,0112359550561798;1,1;0,0277777777777778;2,78
+DS_District 1;Fraxinus pennsylvanica;3172348;46;0;0;0;0;0
+DS_District 1;Helianthus tuberosus;3119175;300;16;0,0533333333333333;5,3;0,111111111111111;11,11
+DS_District 1;Helianthus laetiflorus;3119181;44;1;0,0227272727272727;2,3;0,00694444444444444;0,69
+DS_District 1;Heracleum mantegazzianum;3034825;2812;44;0,015647226173542;1,6;0,305555555555556;30,56
+DS_District 1;Hydrocotyle ranunculoides;7978544;537;14;0,0260707635009311;2,6;0,0972222222222222;9,72
+DS_District 1;Impatiens capensis;2891774;56;1;0,0178571428571429;1,8;0,00694444444444444;0,69
+DS_District 1;Impatiens glandulifera;2891770;3707;72;0,0194227137847316;1,9;0,5;50
+DS_District 1;Koenigia polystachya;8848208;42;0;0;0;0;0
+DS_District 1;Laburnum anagyroides;5356345;198;1;0,00505050505050505;0,5;0,00694444444444444;0,69
+DS_District 1;Lagarosiphon major;2865565;34;0;0;0;0;0
+DS_District 1;Lemna minuta;2867614;883;8;0,00906002265005663;0,9;0,0555555555555556;5,56
+DS_District 1;Lemna turionifera;2867631;103;2;0,0194174757281553;1,9;0,0138888888888889;1,39
+DS_District 1;Hydrocharis laevigata;11055820;2;0;0;0;0;0
+DS_District 1;Ludwigia grandiflora;5421039;476;7;0,0147058823529412;1,5;0,0486111111111111;4,86
+DS_District 1;Ludwigia peploides;5420991;18;0;0;0;0;0
+DS_District 1;Mahonia aquifolium;3033865;1917;59;0,0307772561293688;3,1;0,409722222222222;40,97
+DS_District 1;Myriophyllum aquaticum;5361785;479;11;0,022964509394572;2,3;0,0763888888888889;7,64
+DS_District 1;Myriophyllum heterophyllum;5361762;67;0;0;0;0;0
+DS_District 1;Myriophyllum rubricaule;11742641;16;0;0;0;0;0
+DS_District 1;Parthenocissus inserta;3039203;423;18;0,0425531914893617;4,3;0,125;12,5
+DS_District 1;Parthenocissus quinquefolia;3039194;156;4;0,0256410256410256;2,6;0,0277777777777778;2,78
+DS_District 1;Parthenocissus tricuspidata;3039209;304;9;0,0296052631578947;3;0,0625;6,25
+DS_District 1;Pistia stratiotes;2870583;43;1;0,0232558139534884;2,3;0,00694444444444444;0,69
+DS_District 1;Prunus laurocerasus;3021496;2255;29;0,012860310421286;1,3;0,201388888888889;20,14
+DS_District 1;Prunus serotina;3021850;6032;126;0,0208885941644562;2,1;0,875;87,5
+DS_District 1;Reynoutria japonica;2889173;5136;106;0,0206386292834891;2,1;0,736111111111111;73,61
+DS_District 1;Reynoutria sachalinensis;2889088;129;5;0,0387596899224806;3,9;0,0347222222222222;3,47
+DS_District 1;Reynoutria bohemica;4038485;140;0;0;0;0;0
+DS_District 1;Rhus typhina;3190538;742;15;0,0202156334231806;2;0,104166666666667;10,42
+DS_District 1;Robinia pseudoacacia;5352251;4017;112;0,027881503609659;2,8;0,777777777777778;77,78
+DS_District 1;Rosa rugosa;3003979;1761;39;0,0221465076660988;2,2;0,270833333333333;27,08
+DS_District 1;Rubus armeniacus;2996525;227;2;0,00881057268722467;0,9;0,0138888888888889;1,39
+DS_District 1;Rudbeckia laciniata;3114229;72;1;0,0138888888888889;1,4;0,00694444444444444;0,69
+DS_District 1;Solidago canadensis;5389029;948;35;0,0369198312236287;3,7;0,243055555555556;24,31
+DS_District 1;Solidago gigantea;5389017;3240;73;0,0225308641975309;2,3;0,506944444444444;50,69
+DS_District 1;Spiraea alba;3026585;21;0;0;0;0;0
+DS_District 1;Spiraea douglasii;3027159;265;5;0,0188679245283019;1,9;0,0347222222222222;3,47
+DS_District 1;Spiraea salicifolia;3026454;9;0;0;0;0;0
+DS_District 1;Spiraea tomentosa;3026819;21;0;0;0;0;0
+DS_District 1;Spiraea billardii;7889822;23;1;0,0434782608695652;4,3;0,00694444444444444;0,69

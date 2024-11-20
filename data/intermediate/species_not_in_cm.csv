@@ -1,0 +1,35 @@
+Groep,Species,Soort,Lijst,GBIF_code,GBIF_scientific_name,group
+plant,Acacia saligna (Labill.) H.L.Wendl.,wilgacacia,3,2978552,Acacia saligna (Labill.) H.L.Wendl.,1
+plant,Acacia cyanophylla Lindl.,wilgacacia,3,2980328,Acacia cyanophylla Lindl.,1
+plant,Ehrharta calycina Sm.,roze rimpelgras,3,2702865,Ehrharta calycina Sm.,1
+plant,Heracleum persicum Fischer,Perzische berenklauw,1,3628745,Heracleum persicum Desf.,1
+plant,Heracleum sosnowskyi Mandenova,Sosnowsky's berenklauw,1,3642949,Heracleum sosnowskyi Manden.,1
+plant,Lespedeza juncea var. sericea (Thunb.) Lace & Hauech,Chinese struikklaver,3,2955720,Lespedeza juncea var. sericea (Thunb.) Lace & Hauech,1
+plant,Cenchrus setaceus (Forssk.) Morrone,fraai lampenpoetsersgras,2,5828232,Cenchrus setaceus (Forssk.) Morrone,1
+plant,Polygonum perfoliatum L.,gestekelde duizendknoop,1,5334406,Polygonum perfoliatum (L.) L.,1
+plant,Prosopis juliflora (Sw.) DC.,mesquite,3,5358460,Prosopis juliflora (Sw.) DC.,1
+plant,Pueraria lobata (Willd.) Ohwi,kudzu,1,2977654,Pueraria lobata (Willd.) Ohwi,1
+plant,Salvinia adnata Desv.,grote vlotvaren,3,5579439,Salvinia adnata Desv.,1
+plant,Sapium sebiferum (L.) Roxb.,talgboom,3,7748792,Sapium sebiferum (L.) Roxb.,1
+dier,"Acridotheres tristis Linnaeus, 1766",treurmaina,3,2489005,"Acridotheres tristis (Linnaeus, 1766)",2
+dier,"Corvus splendens Viellot, 1817",huiskraai,1,2482499,"Corvus splendens Vieillot, 1817",4
+dier,"Herpestes javanicus É. Geoffroy Saint-Hilaire, 1818",Indische mangoeste,1,2434271,"Herpestes javanicus (Ã‰.Geoffroy Saint-Hilaire, 1818)",4
+dier,"Nasua nasua L., 1766",rode neusbeer,1,2433536,"Nasua nasua (Linnaeus, 1766)",4
+dier,"Orconectes limosus Rafinesque, 1817",gevlekte rivierkreeft,1,2227000,"Orconectes limosus (Rafinesque, 1817)",5
+dier,"Orconectes virilis Hagen, 1870",geknobbelde Amerikaanse rivierkreeft,1,2227064,"Orconectes virilis (Hagen, 1870)",5
+dier,"Perccottus glenii Dybowski, 1877",amoergrondel,1,2390064,"Perccottus glenii Dybowski, 1877",7
+dier,"Procambarus fallax (Hagen, 1870) f. virginalis",marmerkreeft,1,8879526,"Procambarus fallax f. virginalis Martin, Dorn, Kawai, van der Heiden & Scholtz, 2010",7
+dier,"Threskiornis aethiopicus Latham, 1790",heilige ibis,1,2480764,"Threskiornis aethiopicus (Latham, 1790)",7
+dier,"Vespa velutina nigrithorax de Buysson, 1905",Aziatische hoornaar,1,6247411,"Vespa velutina nigrithorax Buysson, 1905",7
+dier,"Axis axis (Erxleben, 1777)",axishert,4,2440934,"Axis axis (Erxleben, 1777)",7
+dier,"Callosciurus finlaysonii (Horsfield, 1823)",Thailandeekhoorn,4,2437399,"Callosciurus finlaysonii (Horsfield, 1823)",7
+dier,"Faxonius rusticus (Girard, 1852)",roestbruine Amerikaanse rivierkreeft,4,8979506,"Faxonius rusticus (Girard, 1852)",7
+dier,"Pycnonotus cafer (Linnaeus, 1766)",Pycnonotus cafer,4,2486131,"Pycnonotus cafer (Linnaeus, 1766)",8
+dier,"Solenopsis geminata (Fabricius, 1804)",Solenopsis geminata,4,5035187,"Solenopsis geminata (Fabricius, 1804)",8
+dier,"Wasmannia auropunctata (Roger, 1863)",Wasmannia auropunctata,4,1315391,"Wasmannia auropunctata (Roger, 1863)",8
+dier,"Xenopus laevis (Daudin, 1802)",Afrikaanse klauwkikker,4,5217334,"Xenopus laevis (Daudin, 1802)",8
+plant,Crassula helmsii (Kirk) Cockayne,watercrassula,ANB,5362054,Crassula helmsii (Kirk) Cockayne,8
+plant,Fallopia japonica (Houtt.) Ronse Decr.,'invasieve duizendknopen',ANB,5334357,Fallopia japonica (Houtt.) Ronse Decr.,8
+plant,Fallopia sachalinensis (F.Schmidt) Ronse Decr.,'invasieve duizendknopen',ANB,5334293,Fallopia sachalinensis (F.Schmidt) Ronse Decr.,8
+plant,Fallopia ×bohemica (Chrtek & Chrtková) J.P.Bailey,'invasieve duizendknopen',ANB,5652296,Fallopia Ã—bohemica (Chrtek & ChrtkovÃ¡) J.P.Bailey,8
+dier,"Mustela vison Schreber, 1777",Amerikaanse nerts,ANB,5218823,"Mustela vison Schreber, 1777",8

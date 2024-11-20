@@ -1,0 +1,61 @@
+species;scientificName;speciesKey;dec_rules_FL;dec_rules_CORE;GAM_FL;GAM_CORE;consensus_FL;consensus_CORE;FL;CORE
+Acer negundo;Acer negundo L.;3189866;3;1;3;0;3;0;opkomend;niet opkomend
+Ailanthus altissima;Ailanthus altissima (Mill.) Swingle;3190653;2;1;3;0;3;0;opkomend;niet opkomend
+Alternanthera philoxeroides;Alternanthera philoxeroides (Mart.) Griseb.;3084923;NA;NA;NA;NA;NA;NA;NA;NA
+Aponogeton distachyos;Aponogeton distachyos L.f.;5328593;NA;NA;NA;NA;NA;NA;NA;NA
+Arundo donax;Arundo donax L.;2703041;NA;NA;NA;NA;NA;NA;NA;NA
+Asclepias syriaca;Asclepias syriaca L.;3170247;NA;NA;NA;NA;NA;NA;NA;NA
+Azolla filiculoides;Azolla filiculoides Lam.;2650107;2;1;1;0;1;0;onduidelijk;niet opkomend
+Baccharis halimifolia;Baccharis halimifolia L.;3129663;3;1;3;NA;3;1;opkomend;onduidelijk
+Cabomba caroliniana;Cabomba caroliniana A.Gray;2882443;2;1;2;NA;2;1;potentieel opkomend;onduidelijk
+NA;Carpobrotus N.E.Br.;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Cotoneaster horizontalis;Cotoneaster horizontalis Decne.;3025617;3;1;0;1;0;1;niet opkomend;onduidelijk
+Elodea densa;Egeria densa Planch.;5329263;1;1;1;NA;1;1;onduidelijk;onduidelijk
+Pontederia crassipes;Eichhornia crassipes (Mart.) Solms;2765942;1;1;1;NA;1;1;onduidelijk;onduidelijk
+Elaeagnus angustifolia;Elaeagnus angustifolia L.;3039269;3;1;3;NA;3;1;opkomend;onduidelijk
+Elodea canadensis;Elodea canadensis Michx.;2865448;2;1;2;NA;2;1;potentieel opkomend;onduidelijk
+Elodea nuttallii;Elodea nuttallii (Planch.) H.St.John;5329212;2;1;1;1;1;1;onduidelijk;onduidelijk
+Fallopia baldschuanica;Fallopia baldschuanica (Regel) Holub;5334351;3;1;3;1;3;1;opkomend;onduidelijk
+Fraxinus pennsylvanica;Fraxinus pennsylvanica Marshall;3172348;NA;NA;NA;NA;NA;NA;NA;NA
+Gymnocoronis spilanthoides;Gymnocoronis spilanthoides DC.;6063677;NA;NA;NA;NA;NA;NA;NA;NA
+Helianthus tuberosus;Helianthus tuberosus L.;3119175;3;1;1;1;1;1;onduidelijk;onduidelijk
+Helianthus laetiflorus;Helianthus ×laetiflorus Pers.;3119181;1;1;1;NA;1;1;onduidelijk;onduidelijk
+Heracleum mantegazzianum;Heracleum mantegazzianum Sommier & Levier;3034825;3;1;2;0;2;0;potentieel opkomend;niet opkomend
+Hydrilla verticillata;Hydrilla verticillata (L.f.) Royle;5329570;NA;NA;NA;NA;NA;NA;NA;NA
+Hydrocotyle ranunculoides;Hydrocotyle ranunculoides L.fil.;7978544;2;1;2;0;2;0;potentieel opkomend;niet opkomend
+Impatiens capensis;Impatiens capensis Meerb.;2891774;NA;NA;NA;NA;NA;NA;NA;NA
+Impatiens glandulifera;Impatiens glandulifera Royle;2891770;3;1;3;0;3;0;opkomend;niet opkomend
+Koenigia polystachya;Koenigia polystachya (Wall. ex Meisn.) T.M.Schust. & Reveal;8848208;3;1;3;NA;3;1;opkomend;onduidelijk
+Laburnum anagyroides;Laburnum anagyroides Medik.;5356345;3;1;0;NA;0;1;niet opkomend;onduidelijk
+Lagarosiphon major;Lagarosiphon major (Ridl.) Moss;2865565;NA;NA;NA;NA;NA;NA;NA;NA
+Lemna minuta;Lemna minuta Kunth;2867614;2;1;3;1;3;1;opkomend;onduidelijk
+Lemna turionifera;Lemna turionifera Landolt;2867631;NA;NA;NA;NA;NA;NA;NA;NA
+Hydrocharis laevigata;Limnobium laevigatum (Humb. & Bonpl. ex Willd.) Heine;11055820;NA;NA;NA;NA;NA;NA;NA;NA
+Ludwigia grandiflora;Ludwigia grandiflora (Michx.) Greuter & Burdet;5421039;3;1;3;0;3;0;opkomend;niet opkomend
+Ludwigia peploides;Ludwigia peploides (Kunth) P.H.Raven;5420991;NA;NA;NA;NA;NA;NA;NA;NA
+Mahonia aquifolium;Mahonia aquifolium (Pursh) Nutt.;3033865;3;1;3;0;3;0;opkomend;niet opkomend
+Myriophyllum aquaticum;Myriophyllum aquaticum (Vell.) Verdc.;5361785;2;1;2;1;2;1;potentieel opkomend;onduidelijk
+Myriophyllum heterophyllum;Myriophyllum heterophyllum Michx.;5361762;NA;NA;NA;NA;NA;NA;NA;NA
+Myriophyllum rubricaule;Myriophyllum rubricaule Valk. & Duist.;11742641;NA;NA;NA;NA;NA;NA;NA;NA
+Parthenocissus inserta;Parthenocissus inserta (A.Kern.) Fritsch;3039203;3;1;0;1;0;1;niet opkomend;onduidelijk
+Parthenocissus quinquefolia;Parthenocissus quinquefolia (L.) Planch.;3039194;2;1;1;NA;1;1;onduidelijk;onduidelijk
+Parthenocissus tricuspidata;Parthenocissus tricuspidata (Siebold & Zucc.) Planch.;3039209;3;1;3;NA;3;1;opkomend;onduidelijk
+Pistia stratiotes;Pistia stratiotes L.;2870583;NA;NA;NA;NA;NA;NA;NA;NA
+Prunus laurocerasus;Prunus laurocerasus L.;3021496;3;1;3;0;3;0;opkomend;niet opkomend
+Prunus serotina;Prunus serotina Ehrh.;3021850;3;1;3;0;3;0;opkomend;niet opkomend
+Reynoutria japonica;Reynoutria japonica Houtt.;2889173;3;1;3;0;3;0;opkomend;niet opkomend
+Reynoutria sachalinensis;Reynoutria sachalinensis (F.Schmidt) Nakai;2889088;3;1;0;1;0;1;niet opkomend;onduidelijk
+Reynoutria bohemica;Reynoutria ×bohemica Chrtek & Chrtková;4038485;2;1;1;1;1;1;onduidelijk;onduidelijk
+Rhus typhina;Rhus typhina L.;3190538;3;1;2;0;2;0;potentieel opkomend;niet opkomend
+Robinia pseudoacacia;Robinia pseudoacacia L.;5352251;3;1;3;0;3;0;opkomend;niet opkomend
+Rosa rugosa;Rosa rugosa Thunb.;3003979;3;1;3;0;3;0;opkomend;niet opkomend
+Rubus armeniacus;Rubus armeniacus Focke;2996525;2;1;3;1;3;1;opkomend;onduidelijk
+Rudbeckia laciniata;Rudbeckia laciniata L.;3114229;NA;NA;NA;NA;NA;NA;NA;NA
+Salvinia molesta;Salvinia ×molesta D.S.Mitch.;5274863;NA;NA;NA;NA;NA;NA;NA;NA
+Solidago canadensis;Solidago canadensis L.;5389029;3;1;1;1;1;1;onduidelijk;onduidelijk
+Solidago gigantea;Solidago gigantea Aiton;5389017;3;1;3;0;3;0;opkomend;niet opkomend
+Spiraea alba;Spiraea alba Du Roi;3026585;NA;NA;NA;NA;NA;NA;NA;NA
+Spiraea douglasii;Spiraea douglasii Hook.;3027159;3;1;0;NA;0;1;niet opkomend;onduidelijk
+Spiraea salicifolia;Spiraea salicifolia L.;3026454;2;1;2;NA;2;1;potentieel opkomend;onduidelijk
+Spiraea tomentosa;Spiraea tomentosa L.;3026819;2;1;2;NA;2;1;potentieel opkomend;onduidelijk
+Spiraea billardii;Spiraea ×billardii Hérincq;7889822;1;1;1;NA;1;1;onduidelijk;onduidelijk

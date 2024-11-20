@@ -1,0 +1,136 @@
+---
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(dplyr)
+library(tidyr)
+library(knitr)
+library(magick)
+```
+
+
+```{r read data, echo=FALSE}
+DVW_prior <- read.csv("../data/input/DVW_prior.csv", sep="")
+status <- read.csv("../data/output/absent_sporadic_present/absent-sporadic-present.csv")
+status <- rename(status, canonicalName = X)
+species_data <- left_join(DVW_prior, status, by = "canonicalName")
+species_data <- species_data %>%
+  mutate(status.y = replace_na(status.y, "Absent"))%>%
+  mutate(name = gsub(" ", "_", canonicalName))
+
+```
+```{r combine emergenceplots in one image, echo=FALSE, results= 'asis'}
+# Loop through each species
+for(species in species_data$name) {
+
+  # Image paths
+  image_path1 <- paste0(gsub("/r-scripts", "", getwd()), "/data/output/emerging_status/", species, "_occupancy_corrected_Flanders.jpeg")
+  image_path2 <- paste0(gsub("/r-scripts", "", getwd()), "/data/output/emerging_status/", species, "_occupancy_corrected_DVW_CORE.jpeg")
+  
+  # Initialize variables
+  img1 <- NULL
+  img2 <- NULL
+  
+  # Check if image_path1 exists
+  if (file.exists(image_path1)) {
+    img1 <- image_read(image_path1)
+    h <- image_info(img1)$height
+    w <- image_info(img1)$width
+    empty_img <- image_blank(w, h, "white")
+  }
+  
+  # Check if image_path2 exists
+  if (file.exists(image_path2)) {
+    img2 <- image_read(image_path2)
+    h <- image_info(img2)$height
+    w <- image_info(img2)$width
+    empty_img <- image_blank(w, h, "white")
+  }
+  
+  # Check if both images exist
+  if (!is.null(img1) && !is.null(img2)) {
+    combined_img <- image_append(c(img1, img2))
+  } 
+  # Check if only image_path1 exists
+  else if (!is.null(img1)) {
+    combined_img <- image_append(c(img1, empty_img))
+  } 
+  # Check if only image_path2 exists
+  else if (!is.null(img2)) {
+    combined_img <- image_append(c(empty_img, img2))
+  } else {
+    combined_img <- empty_img
+  }
+  
+  # Save the combined image
+  combined_path <- paste0(gsub("/r-scripts", "", getwd()), "/data/output/emerging_status/combined_", species, ".jpeg")
+  image_write(combined_img, combined_path)
+  }
+
+```
+
+```{r pressure, echo=FALSE, results='asis'}
+# Loop door elke soort
+for(species in species_data$name) {
+  
+  # Kop en wat tekst
+  cat("# Verspreiding van ", gsub("_"," ", species), "\n\n")
+
+  # Tweede titel voor aanwezigheid
+  cat("## Aanwezigheid in Vlaanderen\n\n")
+  status <- species_data %>%
+    filter(name == .env$species) %>%
+    pull(status.y)
+  
+  checkboxes <- ifelse(status == "Present", "\t☑ aanwezig ☐ afwezig ☐ sporadisch",
+                       ifelse(status == "Sporadic", "\t☐ aanwezig ☐ afwezig ☑ sporadisch",
+                              "\t☐ aanwezig ☑ afwezig ☐ sporadisch"))
+  
+  cat(checkboxes, "\n\n")
+  
+  # Tweede titel 
+  cat("## Aanwezigheid in kerngebieden\n")
+  #Aandeel in Kerngebieden, en aandeel van de kerngebieden
+  table <-read.csv("C:/Users/frederique_steen/Documents/GitHub/prius/data/output/occupancy_DVW/occupancy_DVW.csv", sep=",")
+  soort<-gsub("_"," ", species)
+  current_species_data <- table %>% 
+    filter(species == soort)
+  
+  cat("% in kerngebied: ", current_species_data$`X._in_CORE`, "\n\n")
+  cat("% van kerngebied: ", current_species_data$`X._of_CORE`, "\n\n")
+  
+  # Hoofdafbeelding
+  image_path <- paste0(gsub("/r-scripts", "", getwd()),"/data/output/spread_maps/",
+                       species, ".png")
+  
+  if (file.exists(image_path)) {
+    cat("![](", image_path, ")\n\n", sep = "")
+  }
+
+  # Tweede titel voor extra figuren
+  cat("## Is de soort opkomend?\n\n")
+  
+  # Paden voor extra afbeeldingen
+  combined_path2 <- paste0(gsub("/r-scripts", "", getwd()), "/data/output/emerging_status/combined_", species, ".jpeg")
+
+  
+if (file.exists(combined_path2)) {
+  file_size <- file.info(combined_path2)$size
+  
+  if (file_size > 1000) { # Change 1 to a suitable threshold size in bytes
+    cat("![](", combined_path2, "){width=120%}\n\n", sep = "")
+  } else {
+    message(paste("De data laten niet toe om dit voor ", gsub("_"," ",species), " te berekenen."))
+  }
+}
+ 
+  
+  cat("\\newpage\n\n") #Start een nieuwe pagina
+}
+
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
